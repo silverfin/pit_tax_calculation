@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1105>1229.37</c1105>
+    <c2106>266.01</c2106>
+    <c2353>861.84</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>190199041905</numero>
+        <organisme>Axa Belgium</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>4490.00</c3364>
+    <c4364>4600.00</c4364>
+    <c1394>288.00</c1394>
+    <c1574>300000.00</c1574>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Destoop Alexandra</titulaire>
+        <pays>US</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Advocaat</professionA-1>
+    <c1650>3315135.01</c1650>
+    <c1656>13310.22</c1656>
+    <c1657>25159.97</c1657>
+    <profitsOrigEtrg>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>472064.88</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>US</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>2403576.40</valeur>
+        </ipcode>
+      </item>
+    </profitsOrigEtrg>
+    <profitsRevOuFraisAssocFait>
+      <item>
+        <nature>Verenigd Koninkrijk</nature>
+        <ipcode>
+          <code>1650</code>
+          <valeur>154348.84</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <nature>Frankrijk</nature>
+        <ipcode>
+          <code>1650</code>
+          <valeur>169248.22</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <nature>China</nature>
+        <ipcode>
+          <code>1650</code>
+          <valeur>248.94</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <nature>Verenigde Staten van Amerika</nature>
+        <ipcode>
+          <code>1650</code>
+          <valeur>1028948.62</valeur>
+        </ipcode>
+      </item>
+    </profitsRevOuFraisAssocFait>
+    <c1671>checked</c1671>
+    <c1679>checked</c1679>
+  </part2>
+</declaration>
