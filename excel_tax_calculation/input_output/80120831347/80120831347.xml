@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>241.43</c1106>
+    <c2106>241.43</c2106>
+    <c1109>80.48</c1109>
+    <c2109>80.48</c2109>
+    <c1110>613.04</c1110>
+    <c2110>613.04</c2110>
+    <c2250>
+      <valeur>101105.16</valeur>
+    </c2250>
+    <c2254>430.00</c2254>
+    <c2255>430.00</c2255>
+    <c2286>
+      <valeur>43532.56</valeur>
+    </c2286>
+    <c2287>619.68</c2287>
+    <c1390>4742.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Caroline Bertrume</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3334>1450.11</c3334>
+    <c3336>checked</c3336>
+    <c3330>0</c3330>
+    <c4334>1450.11</c4334>
+    <c4336>checked</c4336>
+    <c4330>0</c4330>
+    <c2146>683.84</c2146>
+    <c1146>0.00</c1146>
+    <c1358>1484.92</c1358>
+    <c2358>1484.92</c2358>
+    <c4364>2160.00</c4364>
+    <c1361>960.00</c1361>
+    <c2361>82.50</c2361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>58744.24</valeur>
+    </c1400>
+    <c1405>14301.70</c1405>
+    <c1407>
+      <valeur>11396.45</valeur>
+    </c1407>
+  </part2>
+</declaration>
