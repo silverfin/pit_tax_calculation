@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1038>1</c1038>
+    <c1106>288.50</c1106>
+    <c2106>453.48</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>BR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>288.50</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>BR</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>453.48</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>6185.13</valeur>
+    </c1250>
+    <c2250>
+      <valeur>67843.48</valeur>
+    </c2250>
+    <c2254>430.00</c2254>
+    <c2255>430.00</c2255>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c2286>
+      <valeur>20855.09</valeur>
+    </c2286>
+    <c2287>667.16</c2287>
+    <travFrontAutres>
+      <item>
+        <pays>BR</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>6185.13</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c3364>594.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Pedro Ribeiro Siqueira</titulaire>
+        <pays>BR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Pedro Ribeiro Siqueira</titulaire>
+        <pays>BR</pays>
+      </assurance>
+      <assurance>
+        <titulaire>Liana Kipper Siqueira</titulaire>
+        <pays>BR</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+</declaration>

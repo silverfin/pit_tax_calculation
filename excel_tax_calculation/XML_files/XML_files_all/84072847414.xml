@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1030>1</c1030>
+    <c1038>1</c1038>
+    <c1250>
+      <valeur>49316.31</valeur>
+    </c1250>
+    <c1242>1069.70</c1242>
+    <c1266>12443.68</c1266>
+    <c1286>
+      <valeur>19485.54</valeur>
+    </c1286>
+    <c1287>398.28</c1287>
+    <c3364>630.00</c3364>
+    <c1361>990.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Raphaëlle Hennekinne</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <noEntA>658712944</noEntA>
+    <c1695>2295.68</c1695>
+  </part2>
+</declaration>

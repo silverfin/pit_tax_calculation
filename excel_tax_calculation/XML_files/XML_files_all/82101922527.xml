@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>1262.50</c1106>
+    <c2106>1262.50</c2106>
+    <c1250>
+      <valeur>79471.71</valeur>
+    </c1250>
+    <c2250>
+      <valeur>14101.28</valeur>
+    </c2250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1286>
+      <valeur>30648.30</valeur>
+    </c1286>
+    <c2286>
+      <valeur>0.00</valeur>
+    </c2286>
+    <c1287>619.68</c1287>
+    <travFrontAutres>
+      <item>
+        <pays>LU</pays>
+        <ipcode>
+          <code>2250</code>
+          <valeur>14101.28</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c3334>1520.00</c3334>
+    <c3337>checked</c3337>
+    <c3330>2</c3330>
+    <c4334>1520.00</c4334>
+    <c4337>checked</c4337>
+    <c4330>2</c4330>
+    <c1146>127.56</c1146>
+    <c1358>1480.30</c1358>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c2344>310.00</c2344>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Verellen Valerie</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <tel>022311402</tel>
+    <c1001>checked</c1001>
+    <c1101>checked</c1101>
+    <c1030>2</c1030>
+    <c1106>2328.00</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>2328.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1444>0.08</c1444>
+    <c1349>246972.59</c1349>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Marc Milstain</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Marc &amp; Laurence Milstain</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Marc Milstain</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1600>20827.51</c1600>
+    <c1632>3128.20</c1632>
+    <c1606>8711.40</c1606>
+  </part2>
+</declaration>

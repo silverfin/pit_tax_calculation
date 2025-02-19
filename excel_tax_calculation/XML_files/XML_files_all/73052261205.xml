@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>1880.00</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>779.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>1101.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>61124.07</valeur>
+    </c1250>
+    <c1286>
+      <valeur>21901.93</valeur>
+    </c1286>
+    <c1287>634.23</c1287>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Leigh Vienna</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Leigh Vienna</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Leigh Vienna</titulaire>
+        <pays>ES</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+</declaration>

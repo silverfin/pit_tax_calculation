@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c2250>
+      <valeur>43454.95</valeur>
+    </c2250>
+    <c2254>430.00</c2254>
+    <c2255>430.00</c2255>
+    <c2286>
+      <valeur>13228.04</valeur>
+    </c2286>
+    <c2287>407.26</c2287>
+    <c1444>8304.61</c1444>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>HAMELIN MARC_ANTOINE</titulaire>
+        <pays>CA</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1600>93891.01</c1600>
+    <c1632>18346.19</c1632>
+    <c1606>6999.61</c1606>
+    <c1552>2021-04-01</c1552>
+  </part2>
+</declaration>

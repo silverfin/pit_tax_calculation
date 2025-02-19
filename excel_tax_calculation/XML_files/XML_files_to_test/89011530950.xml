@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1199>7</c1199>
+    <c1250>
+      <valeur>61613.48</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1285>1062.60</c1285>
+    <c1286>
+      <valeur>36587.94</valeur>
+    </c1286>
+    <c1287>731.28</c1287>
+    <c1444>1.78</c1444>
+    <c1390>12821.69</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Sarah Biles</nameAddress>
+        <country>US</country>
+      </item>
+    </benefRenteAlim>
+    <c3360>3410.00</c3360>
+    <c3344>checked</c3344>
+    <c3346>0</c3346>
+    <c1394>120.00</c1394>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Coen Hugenholtz</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

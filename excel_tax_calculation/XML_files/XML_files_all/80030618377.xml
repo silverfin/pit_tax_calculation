@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>3</c1030>
+    <c1106>22.84</c1106>
+    <c2106>22.84</c2106>
+    <c1107>1.00</c1107>
+    <c2107>1.00</c2107>
+    <c1109>295.38</c1109>
+    <c2109>295.38</c2109>
+    <c1110>2280.00</c1110>
+    <c2110>2280.00</c2110>
+    <c2250>
+      <valeur>7189.60</valeur>
+    </c2250>
+    <c2271>2921.16</c2271>
+    <c2286>
+      <valeur>2206.93</valeur>
+    </c2286>
+    <c2287>58.33</c2287>
+    <c2290>checked</c2290>
+    <c1437>240.00</c1437>
+    <c2437>240.00</c2437>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c4370>2280.00</c4370>
+    <c4380>checked</c4380>
+    <c1146>477.78</c1146>
+    <c2146>0.00</c2146>
+    <c1358>625.58</c1358>
+    <c2358>279.46</c2358>
+    <c3364>1350.00</c3364>
+    <c1384>551.10</c1384>
+    <c1361>990.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Didier Lapin</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Zaakvoerder</professionA-1>
+    <c1400>
+      <valeur>45102.24</valeur>
+    </c1400>
+    <c1405>11320.25</c1405>
+    <c1407>
+      <valeur>7019.26</valeur>
+    </c1407>
+  </part2>
+</declaration>

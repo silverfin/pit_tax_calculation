@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1028>checked</c1028>
+    <c1101>checked</c1101>
+    <c1030>1</c1030>
+    <c1106>1393.20</c1106>
+    <c1107>90.06</c1107>
+    <c1109>849.00</c1109>
+    <c1110>3780.00</c1110>
+    <c1266>21953.45</c1266>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c1444>19715.50</c1444>
+    <c1156>1260.00</c1156>
+    <c3364>3168.00</c3364>
+    <c1384>7.20</c1384>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>De Maerteleire Stefanie</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>De Maerteleire Stefanie</titulaire>
+        <pays>CH</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

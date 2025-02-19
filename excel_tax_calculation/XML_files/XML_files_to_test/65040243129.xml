@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1390>6748.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Antoine Hoffmann</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c3100>2254.50</c3100>
+    <c3151>37.25</c3151>
+    <c3152>945.42</c3152>
+    <c3364>1944.00</c3364>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>95721.22</valeur>
+    </c1400>
+    <c1405>13277.08</c1405>
+    <c1407>
+      <valeur>32223.49</valeur>
+    </c1407>
+  </part2>
+</declaration>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c2250>
+      <valeur>57145.75</valeur>
+    </c2250>
+    <c2286>
+      <valeur>19995.99</valeur>
+    </c2286>
+    <c2287>540.75</c2287>
+    <c1444>105.45</c1444>
+    <c1394>489.00</c1394>
+    <c2361>990.00</c2361>
+    <c1573>2500.00</c1573>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Julia Hanus</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Julia Hanus, Daan Sampson</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Daan Sampsion</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Vertaler</professionA-1>
+    <noEntA>702938907</noEntA>
+    <c1650>30079.72</c1650>
+    <c1656>7643.32</c1656>
+    <c1657>5551.85</c1657>
+  </part2>
+</declaration>

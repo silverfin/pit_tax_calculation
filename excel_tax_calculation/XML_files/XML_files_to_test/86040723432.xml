@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>363.88</c1106>
+    <c2106>363.88</c2106>
+    <c2250>
+      <valeur>113588.33</valeur>
+    </c2250>
+    <c2251>
+      <valeur>497.23</valeur>
+    </c2251>
+    <c2254>446.51</c2254>
+    <c2255>430.00</c2255>
+    <c2242>3092.97</c2242>
+    <c2285>4.78</c2285>
+    <c2286>
+      <valeur>44236.34</valeur>
+    </c2286>
+    <c2287>775.68</c2287>
+    <c1146>1943.20</c1146>
+    <c2146>3249.32</c2146>
+    <c2358>2200.30</c2358>
+    <c4364>1584.00</c4364>
+    <c1384>1309.11</c1384>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Francois Nelen</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

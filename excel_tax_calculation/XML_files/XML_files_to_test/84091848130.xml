@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>126976.30</valeur>
+    </c1250>
+    <c1251>
+      <valeur>14954.99</valeur>
+    </c1251>
+    <c1254>415.80</c1254>
+    <c1255>415.80</c1255>
+    <c1285>2015.06</c1285>
+    <c1286>
+      <valeur>64577.27</valeur>
+    </c1286>
+    <c1287>868.99</c1287>
+    <c1361>937.50</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Costa Frederico</titulaire>
+        <pays>PT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <noEntA>631686665</noEntA>
+    <c1695>1792.03</c1695>
+  </part2>
+</declaration>

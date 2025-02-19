@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1105>262.50</c1105>
+    <c1106>581.00</c1106>
+    <c2106>581.00</c2106>
+    <c1250>
+      <valeur>17423.29</valeur>
+    </c1250>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c1287>74.25</c1287>
+    <c1290>checked</c1290>
+    <c2218>229.92</c2218>
+    <c2225>
+      <valeur>0.00</valeur>
+    </c2225>
+    <c1146>637.20</c1146>
+    <c1353>476.68</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>50552310</numero>
+        <organisme>KBC Verzekeringen NV</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>450.00</c3364>
+    <c4364>1350.00</c4364>
+    <c1394>1430.49</c1394>
+    <c1361>990.00</c1361>
+    <c2571>40000.00</c2571>
+  </part1>
+  <part2>
+    <c1650>173123.00</c1650>
+    <c1661>2143.27</c1661>
+    <c1656>21049.73</c1656>
+    <c1657>65035.30</c1657>
+  </part2>
+</declaration>

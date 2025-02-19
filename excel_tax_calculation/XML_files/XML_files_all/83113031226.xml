@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1101>checked</c1101>
+    <c1034>2</c1034>
+    <c1105>153.25</c1105>
+    <c1250>
+      <valeur>47863.85</valeur>
+    </c1250>
+    <c1260>167.74</c1260>
+    <c1271>349.95</c1271>
+    <c1285>254.88</c1285>
+    <c1286>
+      <valeur>13891.28</valeur>
+    </c1286>
+    <c1287>459.03</c1287>
+    <c3334>2280.00</c3334>
+    <c3336>checked</c3336>
+    <c3330>2</c3330>
+    <c1384>184.50</c1384>
+    <c1361>300.00</c1361>
+  </part1>
+  <part2>
+    <professionA-1>Verpleegkundige</professionA-1>
+    <noEntA>715468634</noEntA>
+    <c1600>20490.73</c1600>
+    <c1632>4796.56</c1632>
+    <c1606>10178.00</c1606>
+  </part2>
+</declaration>

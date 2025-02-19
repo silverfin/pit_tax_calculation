@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>54345.68</valeur>
+    </c1250>
+    <c1242>6.54</c1242>
+    <c1258>10733.94</c1258>
+    <c1260>486.87</c1260>
+    <c1266>13693.06</c1266>
+    <c1269>22578.80</c1269>
+    <c1286>
+      <valeur>28526.12</valeur>
+    </c1286>
+    <c1287>343.91</c1287>
+    <c1390>4020.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Lisa Poelman</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3334>2280.00</c3334>
+    <c3336>checked</c3336>
+    <c3330>0</c3330>
+    <c1361>990.00</c1361>
+  </part1>
+</declaration>

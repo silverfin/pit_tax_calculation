@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1107>3.33</c1107>
+    <c1353>1200.00</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>69/10579539</numero>
+        <organisme>Ag Insurance NV</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>980.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>38202.53</valeur>
+    </c1400>
+    <c1405>8909.28</c1405>
+    <c1407>
+      <valeur>7718.47</valeur>
+    </c1407>
+  </part2>
+</declaration>

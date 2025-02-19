@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1573>30000.00</c1573>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Carl Corcoran</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>IT consultant - DJ</professionA-1>
+    <noEntA>820594363</noEntA>
+    <c1650>121874.56</c1650>
+    <c1656>23107.14</c1656>
+    <c1657>4812.77</c1657>
+  </part2>
+</declaration>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1109>280.80</c1109>
+    <c1110>2274.48</c1110>
+    <c1437>120.00</c1437>
+    <c1156>960.00</c1156>
+    <c3360>3410.00</c3360>
+    <c3344>checked</c3344>
+    <c3346>0</c3346>
+    <c1146>241.88</c1146>
+    <c1358>464.09</c1358>
+    <c3364>1800.00</c3364>
+    <c1394>50.00</c1394>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Nobbs Katherine Louise</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Advocaat</professionA-1>
+    <c1400>
+      <valeur>54750.28</valeur>
+    </c1400>
+    <c1401>605.52</c1401>
+    <c1405>8271.94</c1405>
+    <c1407>
+      <valeur>13755.24</valeur>
+    </c1407>
+  </part2>
+</declaration>

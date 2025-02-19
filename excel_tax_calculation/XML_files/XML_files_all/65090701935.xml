@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c2106>3233.00</c2106>
+    <c1107>12.00</c1107>
+    <c2107>12.00</c2107>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>3233.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>90093.57</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1286>
+      <valeur>36337.39</valeur>
+    </c1286>
+    <c1287>619.68</c1287>
+    <c1117>70.95</c1117>
+    <c1118>35.48</c1118>
+    <c1119>8.02</c1119>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c4370>2280.00</c4370>
+    <c4380>checked</c4380>
+    <c3100>560.50</c3100>
+    <c4100>560.50</c4100>
+    <c3152>435.80</c3152>
+    <c3364>2700.00</c3364>
+    <c4364>990.00</c4364>
+    <c1394>322.00</c1394>
+    <c1384>74.00</c1384>
+    <c1361>990.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Kathleen Ramsey</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Kathleen Ramsey</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>147950.40</valeur>
+    </c2400>
+    <c2405>20139.40</c2405>
+    <c2407>
+      <valeur>68340.37</valeur>
+    </c2407>
+  </part2>
+</declaration>

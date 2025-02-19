@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1250>
+      <valeur>89213.00</valeur>
+    </c1250>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <travFrontAutres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>89213.00</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c4364>648.00</c4364>
+    <c1384>281.90</c1384>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Herat Shamindra</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Rabelink Noortje</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

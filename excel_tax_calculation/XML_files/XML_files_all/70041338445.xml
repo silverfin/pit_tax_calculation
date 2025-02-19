@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>35.27</c1106>
+    <c1107>0.46</c1107>
+    <c1109>151.75</c1109>
+    <c1110>0.00</c1110>
+    <c1146>3281.26</c1146>
+    <c1358>2023.03</c1358>
+    <c1353>292.40</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>120039336633</numero>
+        <organisme>NN Insurance</organisme>
+      </contrat>
+      <contrat>
+        <numero>020002085464</numero>
+        <organisme>NN Insurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1394>84.00</c1394>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>62612.99</valeur>
+    </c1400>
+    <c1405>24654.55</c1405>
+    <c1407>
+      <valeur>18100.72</valeur>
+    </c1407>
+  </part2>
+</declaration>

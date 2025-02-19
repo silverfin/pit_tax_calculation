@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Gomez Pardo Diaz Javier</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>45042.00</valeur>
+    </c1400>
+    <c1405>7645.44</c1405>
+    <c1407>
+      <valeur>10247.52</valeur>
+    </c1407>
+  </part2>
+</declaration>

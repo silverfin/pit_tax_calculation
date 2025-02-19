@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1003>checked</c1003>
+    <c1030>1</c1030>
+    <c1109>286.80</c1109>
+    <c1110>2323.05</c1110>
+    <c1156>960.00</c1156>
+    <c1390>2400.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Juul Catthoor &amp; Emiel Catthoor</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3360>379.57</c3360>
+    <c3344>checked</c3344>
+    <c3346>2</c3346>
+    <c3100>1454.80</c3100>
+    <c3151>3016.72</c3151>
+    <c1146>847.33</c1146>
+    <c1358>64.56</c1358>
+    <c3364>1800.00</c3364>
+    <c1384>2275.20</c1384>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>61342.09</valeur>
+    </c1400>
+    <c1401>556.95</c1401>
+    <c1405>10183.96</c1405>
+    <c1407>
+      <valeur>15360.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

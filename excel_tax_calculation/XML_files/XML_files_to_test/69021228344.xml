@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>479.50</c1106>
+    <c1107>19.00</c1107>
+    <c1109>4691.00</c1109>
+    <c1110>25686.25</c1110>
+    <c1146>1887.10</c1146>
+    <c1358>3780.76</c1358>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Schuddinck Steven</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Architect</professionA-1>
+    <noEntA>719220653</noEntA>
+    <c1400>
+      <valeur>18694.08</valeur>
+    </c1400>
+    <c1405>1500.00</c1405>
+    <c1407>
+      <valeur>1062.72</valeur>
+    </c1407>
+  </part2>
+</declaration>

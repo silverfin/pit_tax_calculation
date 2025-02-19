@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1105>257.20</c1105>
+    <c2105>257.20</c2105>
+    <c2106>541.50</c2106>
+    <c1250>
+      <valeur>42176.43</valeur>
+    </c1250>
+    <c1266>4233.30</c1266>
+    <c1286>
+      <valeur>13093.21</valeur>
+    </c1286>
+    <c1287>374.50</c1287>
+    <c1290>checked</c1290>
+    <c3334>2280.00</c3334>
+    <c3336>checked</c3336>
+    <c3330>2</c3330>
+    <c4334>1520.00</c4334>
+    <c4337>checked</c4337>
+    <c4330>2</c4330>
+    <c2146>0.00</c2146>
+    <c2358>612.17</c2358>
+    <c1353>1008.90</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>108871/0</numero>
+        <organisme>Federale Assurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1394>144.00</c1394>
+    <c2361>990.00</c2361>
+    <c2571>23500.00</c2571>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Sandrine Diegerick</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Sandrine Diegerick</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Sandrine Diegerick</titulaire>
+        <pays>LU</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+  <part2>
+    <c2650>101512.42</c2650>
+    <c2656>17324.56</c2656>
+    <c2657>10894.83</c2657>
+  </part2>
+</declaration>

@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1107>10.00</c1107>
+    <c2107>10.00</c2107>
+    <c2271>419.83</c2271>
+    <c2286>
+      <valeur>0.00</valeur>
+    </c2286>
+    <c1437>240.00</c1437>
+    <c2437>145.49</c2437>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c4370>1664.00</c4370>
+    <c4380>checked</c4380>
+    <c4363>141.90</c4363>
+    <c3364>1800.00</c3364>
+    <c4364>810.00</c4364>
+    <c1394>1500.00</c1394>
+    <c1384>448.88</c1384>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Pieter De Vylder</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>46603.64</valeur>
+    </c1400>
+    <c1405>8328.08</c1405>
+    <c2405>3096.64</c2405>
+    <c2400>
+      <valeur>0.00</valeur>
+    </c2400>
+    <c2407>
+      <valeur>0.00</valeur>
+    </c2407>
+    <c1407>
+      <valeur>9000.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <tel>02/4865601</tel>
+    <c1002>checked</c1002>
+    <c1062>checked</c1062>
+    <c1020>checked</c1020>
+    <c1250>
+      <valeur>495.67</valeur>
+    </c1250>
+    <c1251>
+      <valeur>89.42</valeur>
+    </c1251>
+    <c1286>
+      <valeur>245.78</valeur>
+    </c1286>
+    <c1228>
+      <valeur>145251.50</valeur>
+    </c1228>
+    <c1225>
+      <valeur>0.00</valeur>
+    </c1225>
+    <pensionsEtrg>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1228</code>
+          <valeur>4498.14</valeur>
+        </ipcode>
+      </item>
+    </pensionsEtrg>
+    <c1394>175.00</c1394>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Christopher Guichot de Fortis</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1650>3985.00</c1650>
+    <c1657>1114.01</c1657>
+    <c1552>2021-10-01</c1552>
+  </part2>
+</declaration>

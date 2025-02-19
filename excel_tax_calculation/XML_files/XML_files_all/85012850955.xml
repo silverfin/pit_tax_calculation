@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1021>checked</c1021>
+    <c1105>109.58</c1105>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Boro Milovic</titulaire>
+        <pays>ME</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Karolina Buzaljko</titulaire>
+        <pays>PL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Karolina Buzaljko</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <c1400>
+      <valeur>6771.87</valeur>
+    </c1400>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+    <c1650>22350.00</c1650>
+    <c1656>3125.65</c1656>
+    <c1657>8569.01</c1657>
+  </part2>
+</declaration>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c2250>
+      <valeur>42014.08</valeur>
+    </c2250>
+    <c2254>389.25</c2254>
+    <c2255>389.25</c2255>
+    <c2271>156.43</c2271>
+    <c2286>
+      <valeur>10018.20</valeur>
+    </c2286>
+    <c2287>289.89</c2287>
+    <c2284>
+      <valeur>26.29</valeur>
+    </c2284>
+    <c4334>2280.00</c4334>
+    <c4336>checked</c4336>
+    <c4330>0</c4330>
+    <c1394>120.00</c1394>
+    <c1384>2072.64</c1384>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Virtud Espaillat Nuñez</titulaire>
+        <pays>DO</pays>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>2521.98</valeur>
+    </c1400>
+    <c1405>2402.20</c1405>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+    <c1552>2020-02-21</c1552>
+  </part2>
+</declaration>

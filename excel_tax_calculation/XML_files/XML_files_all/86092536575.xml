@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1030>1</c1030>
+    <c1038>1</c1038>
+    <c1107>1.86</c1107>
+  </part1>
+  <part2>
+    <professionA-1>bedrijfleider</professionA-1>
+    <noEntA>889231662</noEntA>
+    <c1400>
+      <valeur>9000.00</valeur>
+    </c1400>
+    <c1405>5465.87</c1405>
+    <c1407>
+      <valeur>1200.00</valeur>
+    </c1407>
+    <c1600>21700.00</c1600>
+    <c1604>4143.63</c1604>
+    <c1606>26840.80</c1606>
+  </part2>
+</declaration>

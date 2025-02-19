@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <tel>+32 (477) 345845</tel>
+    <c1001>checked</c1001>
+    <c3364>792.00</c3364>
+    <c1394>50.00</c1394>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>67148.42</valeur>
+    </c1400>
+    <c1405>13445.53</c1405>
+    <c1407>
+      <valeur>18937.40</valeur>
+    </c1407>
+  </part2>
+</declaration>

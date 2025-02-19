@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1030>2</c1030>
+    <c1038>1</c1038>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Sanada Ryo</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1650>26406.94</c1650>
+    <c1656>3100.61</c1656>
+    <c1552>2021-09-01</c1552>
+  </part2>
+</declaration>

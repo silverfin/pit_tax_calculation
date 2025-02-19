@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1250>
+      <valeur>37914.59</valeur>
+    </c1250>
+    <c2250>
+      <valeur>47566.46</valeur>
+    </c2250>
+    <c1254>335.70</c1254>
+    <c2254>430.00</c2254>
+    <c1255>335.70</c1255>
+    <c2255>430.00</c2255>
+    <c2257>258.78</c2257>
+    <c1266>11320.35</c1266>
+    <c2266>1589.76</c2266>
+    <c1269>913.99</c1269>
+    <c2305>2.00</c2305>
+    <c2234>46.77</c2234>
+    <c1286>
+      <valeur>10718.56</valeur>
+    </c1286>
+    <c2286>
+      <valeur>15174.03</valeur>
+    </c2286>
+    <c1287>278.93</c1287>
+    <c2287>442.74</c2287>
+    <travFrontAutres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>6396.00</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c1437>240.00</c1437>
+    <c2437>240.00</c2437>
+    <c3364>1575.00</c3364>
+    <c1394>678.00</c1394>
+    <c1384>1468.80</c1384>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Clara Cotroneo</titulaire>
+        <pays>IT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

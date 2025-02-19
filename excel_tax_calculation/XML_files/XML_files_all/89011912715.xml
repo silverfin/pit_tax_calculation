@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1038>1</c1038>
+    <c2250>
+      <valeur>26400.02</valeur>
+    </c2250>
+    <c2251>
+      <valeur>5198.69</valeur>
+    </c2251>
+    <c2254>1658.58</c2254>
+    <c2255>1658.58</c2255>
+    <c2242>657.41</c2242>
+    <c2257>3000.00</c2257>
+    <c2266>13511.41</c2266>
+    <c2268>1407.01</c2268>
+    <c2271>1391.94</c2271>
+    <c2286>
+      <valeur>9381.13</valeur>
+    </c2286>
+    <c2287>187.57</c2287>
+    <c2290>checked</c2290>
+    <c2284>
+      <valeur>4.87</valeur>
+    </c2284>
+    <c2353>1500.00</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>59668447</numero>
+        <organisme>KBC Verzekeringen NV</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>648.00</c3364>
+    <c1394>120.00</c1394>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Mollaert Michael</titulaire>
+        <pays>PT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

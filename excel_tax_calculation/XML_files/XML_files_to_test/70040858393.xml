@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1003>checked</c1003>
+    <c1106>536.50</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>PL</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>88.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1390>5784.44</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Trochimiak Gabryela</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Trochimiak Szymon</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c1146>475.98</c1146>
+    <c1358>1949.20</c1358>
+    <c1394>135.00</c1394>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>56041.15</valeur>
+    </c1400>
+    <c1405>13398.57</c1405>
+    <c1407>
+      <valeur>14489.89</valeur>
+    </c1407>
+  </part2>
+</declaration>

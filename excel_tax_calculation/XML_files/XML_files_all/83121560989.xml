@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1106>234.50</c1106>
+    <c2106>234.50</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>PL</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>234.50</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>PL</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>234.50</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>146179.71</valeur>
+    </c1250>
+    <c2250>
+      <valeur>191964.50</valeur>
+    </c2250>
+    <c2254>204.02</c2254>
+    <c2255>204.02</c2255>
+    <c2285>3855.36</c2285>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c2286>
+      <valeur>91060.12</valeur>
+    </c2286>
+    <c2287>731.28</c2287>
+    <travFrontAutres>
+      <item>
+        <pays>CH</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>146179.71</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c4364>3285.00</c4364>
+    <c1384>3240.00</c1384>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Jan Jakubowski</titulaire>
+        <pays>CH</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Jan Jakubowski</titulaire>
+        <pays>PL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

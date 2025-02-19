@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1105>634.50</c1105>
+    <c1106>3297.10</c1106>
+    <c2106>2408.12</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>DE</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>2033.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>375.10</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>AT</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>889.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>2408.12</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1444>149641.99</c1444>
+    <c2444>28903.51</c2444>
+    <c3364>4600.00</c3364>
+    <c4364>3800.00</c4364>
+    <c1394>200.00</c1394>
+    <c1572>50000.00</c1572>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Barthelmess Stephan</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Barthelmess Stephan - Benrubi</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Barthelmess Stephan - Benrubi</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Avocat Consultant</professionA-1>
+    <c1650>387517.26</c1650>
+    <c1656>38386.54</c1656>
+    <c1657>14928.97</c1657>
+    <profitsOrigEtrg>
+      <item>
+        <pays>US</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>257121.64</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>87807.94</valeur>
+        </ipcode>
+      </item>
+    </profitsOrigEtrg>
+  </part2>
+</declaration>

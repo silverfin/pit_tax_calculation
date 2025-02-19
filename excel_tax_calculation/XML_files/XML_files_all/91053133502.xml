@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>464.00</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>464.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1146>6602.44</c1146>
+    <c1358>9610.69</c1358>
+    <c3364>1998.00</c3364>
+    <c1394>600.00</c1394>
+    <c1361>1270.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Delattre Arnaud</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>34126.45</valeur>
+    </c1400>
+    <c1405>8072.24</c1405>
+    <c1407>
+      <valeur>6446.52</valeur>
+    </c1407>
+  </part2>
+</declaration>

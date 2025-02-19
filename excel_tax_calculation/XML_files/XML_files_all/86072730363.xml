@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1038>1</c1038>
+    <c1109>139.56</c1109>
+    <c2109>139.56</c2109>
+    <c1110>945.00</c1110>
+    <c2110>945.00</c2110>
+    <c1250>
+      <valeur>45830.10</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1242>1383.08</c1242>
+    <c1266>8038.02</c1266>
+    <c1269>6744.73</c1269>
+    <c1285>1798.05</c1285>
+    <c1286>
+      <valeur>19547.64</valeur>
+    </c1286>
+    <c1287>409.54</c1287>
+    <c1437>6.85</c1437>
+    <c1146>564.69</c1146>
+    <c2146>81.41</c2146>
+    <c1358>380.66</c1358>
+    <c2358>380.66</c2358>
+    <c3364>3240.00</c3364>
+    <c1384>3038.40</c1384>
+    <c1361>939.96</c1361>
+    <c2361>939.96</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Beyer Eva</titulaire>
+        <pays>CZ</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Beyer Tom</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>72680.01</valeur>
+    </c2400>
+    <c2405>9346.28</c2405>
+    <c2407>
+      <valeur>17449.96</valeur>
+    </c2407>
+  </part2>
+</declaration>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>4.70</c1106>
+    <c1107>21.53</c1107>
+    <c1250>
+      <valeur>37314.03</valeur>
+    </c1250>
+    <c1254>1595.00</c1254>
+    <c1255>1595.00</c1255>
+    <c1271>2132.60</c1271>
+    <c1286>
+      <valeur>9714.92</valeur>
+    </c1286>
+    <c1287>273.62</c1287>
+    <c1290>checked</c1290>
+    <c1437>240.00</c1437>
+    <c1444>234.59</c1444>
+    <c1394>728.00</c1394>
+    <c1361>1270.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Luiz De Baets</titulaire>
+        <pays>IE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1003>checked</c1003>
+    <c1018>checked</c1018>
+    <c1019>checked</c1019>
+    <c1390>4961.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Alexis Pashidis</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3364>531.00</c3364>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>40718.90</valeur>
+    </c1400>
+    <c1405>15468.79</c1405>
+    <c1407>
+      <valeur>8650.20</valeur>
+    </c1407>
+  </part2>
+</declaration>

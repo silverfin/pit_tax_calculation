@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>165.33</c1106>
+    <c2106>165.33</c2106>
+    <c3100>1111.50</c3100>
+    <c4100>1111.50</c4100>
+    <c3146>93.37</c3146>
+    <c3355>1855.01</c3355>
+    <c4355>1855.01</c4355>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Rampetta Paulo</titulaire>
+        <pays>IT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c2405>1343.13</c2405>
+    <c2400>
+      <valeur>0.00</valeur>
+    </c2400>
+    <c2407>
+      <valeur>0.00</valeur>
+    </c2407>
+    <c1650>24644.37</c1650>
+    <c1656>4664.15</c1656>
+    <c1657>7542.56</c1657>
+  </part2>
+</declaration>

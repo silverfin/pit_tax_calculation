@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+  </part1>
+  <part2>
+    <professionA-1>Zaakvoerder</professionA-1>
+    <c1400>
+      <valeur>66119.01</valeur>
+    </c1400>
+    <c1405>8856.16</c1405>
+    <c1407>
+      <valeur>21600.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

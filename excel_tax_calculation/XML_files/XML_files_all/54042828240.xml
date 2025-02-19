@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1250>
+      <valeur>9620.20</valeur>
+    </c1250>
+    <c1254>101.97</c1254>
+    <c1255>101.97</c1255>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c1287>15.45</c1287>
+    <c1228>
+      <valeur>18695.21</valeur>
+    </c1228>
+    <c2228>
+      <valeur>18454.70</valeur>
+    </c2228>
+    <c2218>420.42</c2218>
+    <c1225>
+      <valeur>836.57</valeur>
+    </c1225>
+    <c2225>
+      <valeur>735.88</valeur>
+    </c2225>
+    <c2353>2350.00</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>010113935290</numero>
+        <organisme>AXA Belgium</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>1530.00</c3364>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>35811.15</valeur>
+    </c2400>
+    <c2405>3738.73</c2405>
+    <c2407>
+      <valeur>7224.00</valeur>
+    </c2407>
+  </part2>
+</declaration>

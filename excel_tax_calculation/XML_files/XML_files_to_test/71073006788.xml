@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>1224.60</c1106>
+    <c2106>1224.60</c2106>
+    <c1109>331.80</c1109>
+    <c1110>2536.92</c1110>
+    <c1156>845.64</c1156>
+    <c1146>4007.04</c1146>
+    <c2146>0.00</c2146>
+    <c1358>2350.00</c1358>
+    <c2358>1434.62</c2358>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Gunther Wielandt</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Inge De Wit</titulaire>
+        <pays>NL</pays>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>61735.36</valeur>
+    </c1400>
+    <c2400>
+      <valeur>43585.27</valeur>
+    </c2400>
+    <c1405>10361.00</c1405>
+    <c2405>11778.23</c2405>
+    <c1407>
+      <valeur>17025.12</valeur>
+    </c1407>
+    <c2407>
+      <valeur>4898.76</valeur>
+    </c2407>
+  </part2>
+</declaration>

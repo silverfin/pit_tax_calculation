@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>33098.20</valeur>
+    </c1250>
+    <c1258>25392.00</c1258>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <travFrontAutres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>16300.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>16798.20</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1258</code>
+          <valeur>9072.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1258</code>
+          <valeur>16320.00</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c1437>240.00</c1437>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Geeraert Pieter</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

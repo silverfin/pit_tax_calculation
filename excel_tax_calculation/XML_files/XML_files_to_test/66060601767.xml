@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <tel>050/72.03.03</tel>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1106>223.96</c1106>
+    <c2106>223.96</c2106>
+    <c1107>5.00</c1107>
+    <c2107>3.00</c2107>
+    <c2250>
+      <valeur>33567.78</valeur>
+    </c2250>
+    <c1271>322.41</c1271>
+    <c1286>
+      <valeur>0.00</valeur>
+    </c1286>
+    <c2286>
+      <valeur>6365.48</valeur>
+    </c2286>
+    <c2287>287.61</c2287>
+    <c2284>
+      <valeur>459.94</valeur>
+    </c2284>
+    <c1146>880.49</c1146>
+    <c2146>880.49</c2146>
+    <c1353>2367.32</c1353>
+    <c2353>2349.96</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>5573903415</numero>
+        <organisme>P&amp;V Verzekeringen</organisme>
+      </contrat>
+      <contrat>
+        <numero>1A10893</numero>
+        <organisme>Baloise Insurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <c1400>
+      <valeur>15000.00</valeur>
+    </c1400>
+    <c1405>4400.34</c1405>
+    <c1407>
+      <valeur>875.96</valeur>
+    </c1407>
+  </part2>
+</declaration>

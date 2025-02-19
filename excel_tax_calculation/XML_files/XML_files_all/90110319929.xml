@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1117>12000.00</c1117>
+    <c1118>6000.00</c1118>
+    <c1119>900.00</c1119>
+    <c3334>2280.00</c3334>
+    <c3336>checked</c3336>
+    <c3330>0</c3330>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>De Ridder Jo</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>De Ridder Jo</titulaire>
+        <pays>PL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>De Ridder Jo</titulaire>
+        <pays>IE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>26694.64</valeur>
+    </c1400>
+    <c1405>6556.88</c1405>
+    <c1407>
+      <valeur>922.56</valeur>
+    </c1407>
+  </part2>
+</declaration>

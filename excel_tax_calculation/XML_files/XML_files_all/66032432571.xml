@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>2571.97</c1106>
+    <c2106>2582.61</c2106>
+    <c1107>18.50</c1107>
+    <c2107>18.83</c2107>
+    <c1109>1036.56</c1109>
+    <c2109>1036.56</c2109>
+    <c1110>8658.00</c1110>
+    <c2110>8658.00</c2110>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>1185.74</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>1185.74</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1437>240.00</c1437>
+    <c2437>240.00</c2437>
+    <c1146>390.24</c1146>
+    <c3364>3600.00</c3364>
+    <c4364>2700.00</c4364>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Vanwijnsberghe Didier</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <c1400>
+      <valeur>45000.00</valeur>
+    </c1400>
+    <c1405>11906.58</c1405>
+    <c1407>
+      <valeur>9191.52</valeur>
+    </c1407>
+  </part2>
+</declaration>

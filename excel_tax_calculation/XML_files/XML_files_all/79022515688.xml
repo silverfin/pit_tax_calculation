@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1030>3</c1030>
+    <c1106>418.52</c1106>
+    <c1437>240.00</c1437>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c3364>1746.00</c3364>
+    <c1394>360.00</c1394>
+    <c1384>133.00</c1384>
+    <c1344>310.00</c1344>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>DE62101308001043620532</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>NL 862498600</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>109295.08</valeur>
+    </c1400>
+    <c1405>21713.63</c1405>
+    <c1407>
+      <valeur>26716.33</valeur>
+    </c1407>
+  </part2>
+</declaration>

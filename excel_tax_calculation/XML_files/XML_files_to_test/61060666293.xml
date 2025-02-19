@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Jeroen &amp; Noreen Theys</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Jeroen &amp; Noreen Theys</titulaire>
+        <pays>IE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Jeroen &amp; Noreen Theys</titulaire>
+        <pays>US</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>77776.73</valeur>
+    </c2400>
+    <c2405>14192.18</c2405>
+    <c2407>
+      <valeur>11927.78</valeur>
+    </c2407>
+  </part2>
+</declaration>

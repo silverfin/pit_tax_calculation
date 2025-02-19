@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>4</c1030>
+    <c1107>4.93</c1107>
+    <c2107>4.93</c2107>
+    <c3334>1520.00</c3334>
+    <c3337>checked</c3337>
+    <c3330>3</c3330>
+    <c4334>1427.56</c4334>
+    <c4337>checked</c4337>
+    <c4330>3</c4330>
+    <c1146>665.82</c1146>
+    <c2146>665.82</c2146>
+    <c1358>407.52</c1358>
+    <c3364>2538.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Mout Sjoerd</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>65101.00</valeur>
+    </c1400>
+    <c1407>
+      <valeur>900.00</valeur>
+    </c1407>
+    <revOrigEtrgDirigEntr>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1400</code>
+          <valeur>56601.00</valeur>
+        </ipcode>
+      </item>
+    </revOrigEtrgDirigEntr>
+  </part2>
+</declaration>

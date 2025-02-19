@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1390>2553.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Geertrui Uvyn</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>109182.23</valeur>
+    </c1400>
+    <c1405>18316.75</c1405>
+    <c1407>
+      <valeur>38717.28</valeur>
+    </c1407>
+  </part2>
+</declaration>

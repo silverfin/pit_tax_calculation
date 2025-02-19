@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1021>checked</c1021>
+    <c1106>5494.00</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>GR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>5494.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Tokamani Niki</titulaire>
+        <pays>GR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

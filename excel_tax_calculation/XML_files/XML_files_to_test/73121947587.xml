@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1018>checked</c1018>
+    <c1199>2</c1199>
+    <c1036>2</c1036>
+    <c1390>3576.16</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Giulia Montorsi</nameAddress>
+        <country>CO</country>
+      </item>
+      <item>
+        <nameAddress>Lucia Montorsi</nameAddress>
+        <country>CO</country>
+      </item>
+    </benefRenteAlim>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Nicola Montorsi</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Nicola Montorsi</titulaire>
+        <pays>IT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Nicola Montorsi</titulaire>
+        <pays>CO</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1632>2049.00</c1632>
+  </part2>
+</declaration>

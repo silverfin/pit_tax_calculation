@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1034>1</c1034>
+    <c2250>
+      <valeur>46970.96</valeur>
+    </c2250>
+    <c2254>430.00</c2254>
+    <c2255>430.00</c2255>
+    <c2286>
+      <valeur>13790.13</valeur>
+    </c2286>
+    <c2287>436.39</c2287>
+    <c1117>18751.04</c1117>
+    <c1118>9375.52</c1118>
+    <c1119>1406.33</c1119>
+    <c4370>354.71</c4370>
+    <c4380>checked</c4380>
+    <c3100>955.50</c3100>
+    <c4100>409.50</c4100>
+    <c3152>827.65</c3152>
+    <c3364>1818.00</c3364>
+    <c1394>75.00</c1394>
+    <c2361>1270.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Bernard &amp; Catherine De Vriendt</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>56495.83</valeur>
+    </c1400>
+    <c1405>10763.38</c1405>
+    <c1407>
+      <valeur>13395.03</valeur>
+    </c1407>
+  </part2>
+</declaration>

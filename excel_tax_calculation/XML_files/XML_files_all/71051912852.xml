@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1106>388.20</c1106>
+    <c2106>7024.80</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>388.20</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>3493.80</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c3100>672.00</c3100>
+    <c4100>672.00</c4100>
+    <c3152>2156.84</c3152>
+    <c1146>1037.24</c1146>
+    <c2146>9887.89</c2146>
+    <c2358>4925.05</c2358>
+    <c2353>1912.68</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>040141492419</numero>
+        <organisme>AXA Belgium</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>2880.00</c3364>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>De Corte Luc</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1405>3096.64</c1405>
+    <c2405>4646.64</c2405>
+    <c1400>
+      <valeur>0.00</valeur>
+    </c1400>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+    <c2400>
+      <valeur>0.00</valeur>
+    </c2400>
+    <c2407>
+      <valeur>0.00</valeur>
+    </c2407>
+  </part2>
+</declaration>

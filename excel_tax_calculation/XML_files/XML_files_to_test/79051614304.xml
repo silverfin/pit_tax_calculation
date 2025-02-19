@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1437>240.00</c1437>
+    <c1444>1664.84</c1444>
+    <revRegSpecImp>
+      <item>
+        <pays>FR</pays>
+        <nature>DIVIDENDS</nature>
+        <ipcode>
+          <code>1444</code>
+          <valeur>619.14</valeur>
+        </ipcode>
+      </item>
+    </revRegSpecImp>
+    <c1390>9820.40</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Victor Dryhoel</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Maurits Dryhoel</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3370>3040.00</c3370>
+    <c3372>checked</c3372>
+    <c3374>checked</c3374>
+    <c3373>0</c3373>
+    <c3364>3600.00</c3364>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>54712.68</valeur>
+    </c1400>
+    <c1405>6908.42</c1405>
+    <c1407>
+      <valeur>13799.45</valeur>
+    </c1407>
+  </part2>
+</declaration>

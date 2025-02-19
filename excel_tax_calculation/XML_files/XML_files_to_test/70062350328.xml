@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1213>608.25</c1213>
+    <c1225>
+      <valeur>202.61</valeur>
+    </c1225>
+    <c1437>240.00</c1437>
+    <c1444>47.79</c1444>
+    <c1390>14400.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Marianne Heymans</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Lenssens Bernard</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <professionA-1>zaakvoerder</professionA-1>
+    <c1400>
+      <valeur>45999.96</valeur>
+    </c1400>
+    <c1405>6988.32</c1405>
+    <c1407>
+      <valeur>10583.76</valeur>
+    </c1407>
+  </part2>
+</declaration>

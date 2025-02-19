@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <tel>02/4865601</tel>
+    <c1002>checked</c1002>
+    <c1106>1016.00</c1106>
+    <c2106>2431.00</c2106>
+    <c1107>77.75</c1107>
+    <c2107>72.50</c2107>
+    <c1109>311.85</c1109>
+    <c1110>2525.98</c1110>
+    <c1437>40.00</c1437>
+    <c2437>40.00</c2437>
+    <c4364>1800.00</c4364>
+    <c2571>5000.00</c2571>
+    <c2572>7500.00</c2572>
+  </part1>
+  <part2>
+    <professionA-1>Advocaat</professionA-1>
+    <professionB-1>Advocaat</professionB-1>
+    <c1400>
+      <valeur>92036.00</valeur>
+    </c1400>
+    <c1405>16967.59</c1405>
+    <c1407>
+      <valeur>28899.60</valeur>
+    </c1407>
+    <c2650>30170.23</c2650>
+    <c2656>4029.39</c2656>
+    <c2657>13573.63</c2657>
+  </part2>
+</declaration>

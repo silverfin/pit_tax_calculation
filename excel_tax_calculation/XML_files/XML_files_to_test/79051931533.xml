@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>747.17</c1106>
+    <c2106>747.17</c2106>
+    <c2250>
+      <valeur>25928.40</valeur>
+    </c2250>
+    <c2286>
+      <valeur>2198.91</valeur>
+    </c2286>
+    <c2287>136.23</c2287>
+    <c2284>
+      <valeur>2143.28</valeur>
+    </c2284>
+    <c1156>1925.00</c1156>
+    <c1146>1996.08</c1146>
+    <c2146>310.02</c2146>
+    <c1358>3927.92</c1358>
+    <c2358>2281.13</c2358>
+    <c2361>990.00</c2361>
+    <c1344>310.00</c1344>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Schreiber Jonas</titulaire>
+        <pays>DE</pays>
+      </compte>
+      <compte>
+        <titulaire>Allison Mc Greal</titulaire>
+        <pays>DE</pays>
+      </compte>
+      <compte>
+        <titulaire>Allison Mc Greal</titulaire>
+        <pays>NL</pays>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>46760.98</valeur>
+    </c1400>
+    <c1405>11130.97</c1405>
+    <c1407>
+      <valeur>10511.52</valeur>
+    </c1407>
+    <c1650>2422.09</c1650>
+  </part2>
+</declaration>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1109>462.75</c1109>
+    <c1110>3000.00</c1110>
+    <c1228>
+      <valeur>15810.49</valeur>
+    </c1228>
+    <c1225>
+      <valeur>79.43</valeur>
+    </c1225>
+    <c3360>3280.75</c3360>
+    <c3344>checked</c3344>
+    <c3346>0</c3346>
+    <c1146>75.27</c1146>
+    <c1394>170.00</c1394>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>35412.60</valeur>
+    </c1400>
+    <c1405>6056.31</c1405>
+    <c1407>
+      <valeur>6709.52</valeur>
+    </c1407>
+  </part2>
+</declaration>

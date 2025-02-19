@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1101>checked</c1101>
+    <c1030>1</c1030>
+    <c1106>300.80</c1106>
+    <c1109>371.95</c1109>
+    <c1110>4924.90</c1110>
+    <c3370>1560.78</c3370>
+    <c3380>checked</c3380>
+    <c1146>840.42</c1146>
+    <c1353>1120.75</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>110045785533</numero>
+        <organisme>NN Insurrance Belgium NV</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1394>100.00</c1394>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>58021.80</valeur>
+    </c1400>
+    <c1405>16055.36</c1405>
+    <c1407>
+      <valeur>19150.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

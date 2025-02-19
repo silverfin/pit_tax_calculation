@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1199>10</c1199>
+    <c1030>1</c1030>
+    <c3364>360.00</c3364>
+    <c1384>72.00</c1384>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Raul Singh</titulaire>
+        <pays>IN</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>91850.79</valeur>
+    </c1400>
+    <c1405>15079.40</c1405>
+    <c1407>
+      <valeur>27547.59</valeur>
+    </c1407>
+    <c1408>2095.87</c1408>
+  </part2>
+</declaration>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1109>324.97</c1109>
+    <c2109>324.97</c2109>
+    <c1110>1305.00</c1110>
+    <c2110>1305.00</c2110>
+    <c1250>
+      <valeur>50653.89</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1286>
+      <valeur>16453.74</valeur>
+    </c1286>
+    <c1287>424.04</c1287>
+    <c2353>7.80</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>001021344</numero>
+        <organisme>AG INSURANCE S.A.</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>600.00</c1361>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <professionB-1>Bedrijfsleider</professionB-1>
+    <c2400>
+      <valeur>78000.00</valeur>
+    </c2400>
+    <c2405>20765.70</c2405>
+    <c2407>
+      <valeur>27600.00</valeur>
+    </c2407>
+  </part2>
+</declaration>

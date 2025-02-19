@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>343988.91</valeur>
+    </c1250>
+    <c1254>300.00</c1254>
+    <c1255>300.00</c1255>
+    <c1286>
+      <valeur>173258.32</valeur>
+    </c1286>
+    <c1287>731.28</c1287>
+    <c1444>630.77</c1444>
+    <c1390>28217.90</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Emily Tacke</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Adrian Tacke</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Eléonore Tacke</nameAddress>
+        <country>FR</country>
+      </item>
+    </benefRenteAlim>
+    <c3364>3150.00</c3364>
+    <c1394>400.00</c1394>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Tacke Nikolaus</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Tacke Nikolaus</titulaire>
+        <pays>DE</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+</declaration>

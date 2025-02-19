@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>553.41</c1106>
+    <c1109>170.98</c1109>
+    <c1110>934.69</c1110>
+    <c1390>4800.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Leon Thomas</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3334>905.90</c3334>
+    <c3336>checked</c3336>
+    <c3330>0</c3330>
+    <c1146>6107.61</c1146>
+    <c1358>4151.08</c1358>
+    <c3364>414.00</c3364>
+    <c1394>50.00</c1394>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>87788.59</valeur>
+    </c1400>
+    <c1405>14289.94</c1405>
+    <c1407>
+      <valeur>30852.75</valeur>
+    </c1407>
+  </part2>
+</declaration>

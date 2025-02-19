@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>1517.86</c1106>
+    <c1390>18240.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Stefanie Claeyssens</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c1146>6273.35</c1146>
+    <c1358>5968.80</c1358>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>62777.36</valeur>
+    </c1400>
+    <c1405>14197.19</c1405>
+    <c1407>
+      <valeur>14704.11</valeur>
+    </c1407>
+  </part2>
+</declaration>

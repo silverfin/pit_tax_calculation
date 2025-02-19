@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>958.00</c1106>
+    <c1109>252.38</c1109>
+    <c1110>1925.00</c1110>
+    <c1437>240.00</c1437>
+    <c1146>2742.95</c1146>
+    <c1358>5403.28</c1358>
+    <c3364>630.00</c3364>
+    <c1361>990.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Thomas Deryckere</titulaire>
+        <pays>LT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>54434.07</valeur>
+    </c1400>
+    <c1405>13061.22</c1405>
+    <c1407>
+      <valeur>12489.39</valeur>
+    </c1407>
+  </part2>
+</declaration>

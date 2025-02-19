@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1018>checked</c1018>
+    <c1062>checked</c1062>
+    <c1020>checked</c1020>
+    <c1106>3256.50</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>1998.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>CH</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>1258.50</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Gietema Hendrika</titulaire>
+        <pays>NL</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Gietema Hendrika</titulaire>
+        <pays>LU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

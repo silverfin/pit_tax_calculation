@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1028>checked</c1028>
+    <c1106>62.75</c1106>
+    <c1107>27.52</c1107>
+    <c1250>
+      <valeur>14930.10</valeur>
+    </c1250>
+    <c1266>11708.58</c1266>
+    <c1268>976.86</c1268>
+    <c1286>
+      <valeur>2208.83</valeur>
+    </c1286>
+    <c1284>
+      <valeur>1137.53</valeur>
+    </c1284>
+    <c1353>1409.00</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>832-0028917-96</numero>
+        <organisme>BELFIUS INSURANCE</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>990.00</c1361>
+  </part1>
+</declaration>

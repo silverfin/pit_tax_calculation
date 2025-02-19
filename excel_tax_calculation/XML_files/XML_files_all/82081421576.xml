@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1036>2</c1036>
+    <c1109>202.50</c1109>
+    <c1110>2700.00</c1110>
+    <c1117>786.25</c1117>
+    <c1118>393.13</c1118>
+    <c1119>58.97</c1119>
+    <c1390>10800.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Danielle Frans</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+  </part1>
+  <part2>
+    <professionA-1>bediende</professionA-1>
+    <c1400>
+      <valeur>36000.00</valeur>
+    </c1400>
+    <c1405>3478.47</c1405>
+    <c1407>
+      <valeur>5912.76</valeur>
+    </c1407>
+  </part2>
+</declaration>

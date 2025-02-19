@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>919.00</c1106>
+    <c1109>557.70</c1109>
+    <c2109>557.70</c2109>
+    <c1110>4500.00</c1110>
+    <c2110>4500.00</c2110>
+    <c1250>
+      <valeur>94510.93</valeur>
+    </c1250>
+    <c1254>56.84</c1254>
+    <c1255>56.84</c1255>
+    <c1285>1572.97</c1285>
+    <c1286>
+      <valeur>39600.22</valeur>
+    </c1286>
+    <c1287>619.68</c1287>
+    <c1156>1500.00</c1156>
+    <c2156>1500.00</c2156>
+    <c1146>1598.28</c1146>
+    <c2146>0.00</c2146>
+    <c1358>3864.78</c1358>
+    <c2358>538.63</c2358>
+    <c4364>1260.00</c4364>
+    <c1384>4108.90</c1384>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+    <c1365>1750.00</c1365>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Michaël Vangenechten</titulaire>
+        <pays>SG</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>51696.65</valeur>
+    </c2400>
+    <c2405>12438.14</c2405>
+    <c2407>
+      <valeur>11688.49</valeur>
+    </c2407>
+  </part2>
+</declaration>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>51372.10</valeur>
+    </c1250>
+    <c1286>
+      <valeur>2353.04</valeur>
+    </c1286>
+    <c1287>35.71</c1287>
+    <travFrontAutres>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>45287.00</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+  </part1>
+</declaration>

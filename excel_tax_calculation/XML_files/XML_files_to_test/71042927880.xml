@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>875.00</c1106>
+    <c1437>240.00</c1437>
+    <c1394>360.00</c1394>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>99361.02</valeur>
+    </c1400>
+    <c1405>21556.89</c1405>
+    <c1407>
+      <valeur>20486.45</valeur>
+    </c1407>
+    <revOrigEtrgDirigEntr>
+      <item>
+        <pays>HK</pays>
+        <ipcode>
+          <code>1400</code>
+          <valeur>24000.00</valeur>
+        </ipcode>
+      </item>
+    </revOrigEtrgDirigEntr>
+  </part2>
+</declaration>

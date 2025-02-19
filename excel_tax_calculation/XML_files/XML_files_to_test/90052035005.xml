@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>143.60</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>143.60</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>81909.57</valeur>
+    </c1250>
+    <c1254>929.00</c1254>
+    <c1255>929.00</c1255>
+    <c1242>2996.48</c1242>
+    <c1286>
+      <valeur>33024.41</valeur>
+    </c1286>
+    <c1287>731.28</c1287>
+    <c3364>1440.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Hugenholtz Florence</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

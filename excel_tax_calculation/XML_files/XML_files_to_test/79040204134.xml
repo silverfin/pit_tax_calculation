@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1109>84.60</c1109>
+    <c1110>685.26</c1110>
+    <c1437>240.00</c1437>
+    <c1156>228.42</c1156>
+    <c3370>2280.00</c3370>
+    <c3380>checked</c3380>
+    <c1146>227.93</c1146>
+    <c1358>768.15</c1358>
+    <c1353>267.23</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>57853781</numero>
+        <organisme>KBC</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>990.00</c1361>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <c1400>
+      <valeur>35592.09</valeur>
+    </c1400>
+    <c1405>8842.80</c1405>
+    <c1407>
+      <valeur>5863.82</valeur>
+    </c1407>
+  </part2>
+</declaration>

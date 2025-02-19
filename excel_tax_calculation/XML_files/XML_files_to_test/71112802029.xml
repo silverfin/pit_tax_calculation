@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1034>2</c1034>
+    <c1106>6099.35</c1106>
+    <c2106>619.11</c2106>
+    <c1107>2.00</c1107>
+    <c1109>4214.95</c1109>
+    <c2109>149.95</c2109>
+    <c1110>25109.60</c1110>
+    <c2110>1214.60</c2110>
+    <c2437>40.00</c2437>
+    <c1156>404.87</c1156>
+    <c2156>404.87</c2156>
+    <c2117>0.08</c2117>
+    <c2118>0.04</c2118>
+    <c2119>0.01</c2119>
+    <c2390>4016.79</c2390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Elise Van Cauter - Simon Van Cauter</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c3100>1349.55</c3100>
+    <c4100>1349.55</c4100>
+    <c3152>202.52</c3152>
+    <c3358>400.85</c3358>
+    <c2146>22.50</c2146>
+    <c2358>44.54</c2358>
+    <c1384>497.05</c1384>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>18000.00</valeur>
+    </c1400>
+    <c2400>
+      <valeur>81828.21</valeur>
+    </c2400>
+    <c1401>73903.00</c1401>
+    <c1405>21870.56</c1405>
+    <c2405>18739.98</c2405>
+    <c1407>
+      <valeur>38607.60</valeur>
+    </c1407>
+    <c2407>
+      <valeur>26460.33</valeur>
+    </c2407>
+  </part2>
+</declaration>

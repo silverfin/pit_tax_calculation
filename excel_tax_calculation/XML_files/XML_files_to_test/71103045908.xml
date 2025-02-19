@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1021>checked</c1021>
+    <c1030>4</c1030>
+    <c1106>2373.12</c1106>
+    <c1107>46.50</c1107>
+    <c1444>16.31</c1444>
+    <c3364>4600.00</c3364>
+    <c1394>80.00</c1394>
+    <c1342>200000.00</c1342>
+    <c1361>990.00</c1361>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Graf Thomas</titulaire>
+        <pays>CH</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1650>2586083.92</c1650>
+    <c1656>20813.10</c1656>
+    <c1657>12725.04</c1657>
+    <profitsOrigEtrg>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>409152.56</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>US</pays>
+        <ipcode>
+          <code>1650</code>
+          <valeur>1821390.66</valeur>
+        </ipcode>
+      </item>
+    </profitsOrigEtrg>
+  </part2>
+</declaration>

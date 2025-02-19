@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>4890.43</c1106>
+    <c2106>4890.43</c2106>
+    <c1107>50.00</c1107>
+    <c2107>50.00</c2107>
+    <c1109>150.15</c1109>
+    <c2109>150.15</c2109>
+    <c1110>1216.22</c1110>
+    <c2110>1216.22</c2110>
+    <c2250>
+      <valeur>22914.25</valeur>
+    </c2250>
+    <c2254>128.77</c2254>
+    <c2255>128.77</c2255>
+    <c2242>1482.25</c2242>
+    <c2286>
+      <valeur>2927.50</valeur>
+    </c2286>
+    <c2287>104.00</c2287>
+    <c2284>
+      <valeur>5.03</valeur>
+    </c2284>
+    <c1437>240.00</c1437>
+    <c2437>240.00</c2437>
+    <c1370>1753.82</c1370>
+    <c1380>checked</c1380>
+    <c1146>13770.36</c1146>
+    <c2146>2.00</c2146>
+    <c1358>6313.85</c1358>
+    <c2358>5217.27</c2358>
+    <c1353>1800.00</c1353>
+    <c2353>1560.00</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>731000328458</numero>
+        <organisme>NN Insurance</organisme>
+      </contrat>
+      <contrat>
+        <numero>731000328357</numero>
+        <organisme>NN Insurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>1800.00</c3364>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>59095.57</valeur>
+    </c1400>
+    <c2400>
+      <valeur>15832.87</valeur>
+    </c2400>
+    <c1405>8510.86</c1405>
+    <c2405>3564.15</c2405>
+    <c1407>
+      <valeur>16955.11</valeur>
+    </c1407>
+    <c2407>
+      <valeur>766.20</valeur>
+    </c2407>
+  </part2>
+</declaration>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1018>checked</c1018>
+    <c1250>
+      <valeur>42906.26</valeur>
+    </c1250>
+    <c1254>419.97</c1254>
+    <c1255>419.97</c1255>
+    <c1286>
+      <valeur>12780.43</valeur>
+    </c1286>
+    <c1287>424.88</c1287>
+    <c3364>1089.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Lies D'hondt</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>2838.23</c1106>
+    <c2106>2838.23</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>287.73</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>287.73</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1444>5.34</c1444>
+    <c2444>5.34</c2444>
+    <c1146>129.61</c1146>
+    <c2146>129.61</c2146>
+    <c2358>845.12</c2358>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Bollon Pascal</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Bollon Pascal</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Bollon Pascal &amp; De Gersem Iris</titulaire>
+        <pays>SG</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

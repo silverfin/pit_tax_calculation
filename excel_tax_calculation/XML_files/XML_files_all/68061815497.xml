@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <telpartner>+32 (475) 630595</telpartner>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1031>1</c1031>
+    <c1106>516.50</c1106>
+    <c2106>516.50</c2106>
+    <c2107>5.61</c2107>
+    <c1250>
+      <valeur>49104.22</valeur>
+    </c1250>
+    <c1254>81.60</c1254>
+    <c1255>81.60</c1255>
+    <c1285>963.48</c1285>
+    <c1305>2.20</c1305>
+    <c1234>72.39</c1234>
+    <c1286>
+      <valeur>15611.63</valeur>
+    </c1286>
+    <c1287>472.51</c1287>
+    <c1146>1399.86</c1146>
+    <c2146>1399.86</c2146>
+    <c1358>29094.95</c1358>
+    <c2358>29094.95</c2358>
+    <c3364>1764.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Bart Hendrickx</titulaire>
+        <pays>US</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>59640.49</valeur>
+    </c2400>
+    <c2405>13277.44</c2405>
+    <c2407>
+      <valeur>12478.93</valeur>
+    </c2407>
+  </part2>
+</declaration>

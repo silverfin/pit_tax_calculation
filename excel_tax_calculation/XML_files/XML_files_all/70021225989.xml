@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>1048.32</c1106>
+    <c1158>45000.00</c1158>
+    <c3100>3417.00</c3100>
+    <c3152>2996.49</c3152>
+    <c3358>3627.13</c3358>
+    <c3364>1215.00</c3364>
+    <c4364>4500.00</c4364>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Frédéric Derumeaux</titulaire>
+        <pays>LU</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>59404.62</valeur>
+    </c1400>
+    <c1407>
+      <valeur>9625.68</valeur>
+    </c1407>
+  </part2>
+</declaration>

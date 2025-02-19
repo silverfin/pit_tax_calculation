@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1106>356.25</c1106>
+    <c2106>356.25</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>356.25</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>356.25</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1437>240.00</c1437>
+    <c2437>240.00</c2437>
+  </part1>
+  <part2>
+    <professionA-1>Bestuurder</professionA-1>
+    <c1400>
+      <valeur>48609.03</valeur>
+    </c1400>
+    <c2400>
+      <valeur>41968.68</valeur>
+    </c2400>
+    <c1405>9406.00</c1405>
+    <c2405>7589.64</c2405>
+    <c1407>
+      <valeur>11800.58</valeur>
+    </c1407>
+    <c2407>
+      <valeur>9376.56</valeur>
+    </c2407>
+  </part2>
+</declaration>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1353>1579.30</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>040141566005</numero>
+        <organisme>Monument Assurance Belgium</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>180.00</c3364>
+    <c1361>907.39</c1361>
+  </part1>
+  <part2>
+    <professionA-1>BEDRIJFLEIDER</professionA-1>
+    <c1400>
+      <valeur>41479.57</valeur>
+    </c1400>
+    <c1405>10486.91</c1405>
+    <c1407>
+      <valeur>5192.16</valeur>
+    </c1407>
+  </part2>
+</declaration>

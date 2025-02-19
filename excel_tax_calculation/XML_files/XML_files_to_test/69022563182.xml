@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1199>11</c1199>
+    <c1250>
+      <valeur>52328.97</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1305>16.00</c1305>
+    <c1234>475.38</c1234>
+    <c1286>
+      <valeur>17721.29</valeur>
+    </c1286>
+    <c1287>509.91</c1287>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Vitor Afono</titulaire>
+        <pays>PT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+    <c1076>checked</c1076>
+    <tituAssurEtrg>
+      <assurance>
+        <titulaire>Vitor Afonso</titulaire>
+        <pays>PT</pays>
+      </assurance>
+    </tituAssurEtrg>
+  </part1>
+</declaration>

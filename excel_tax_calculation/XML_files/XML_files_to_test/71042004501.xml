@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>519.00</c1106>
+    <c1107>2.00</c1107>
+    <c1390>26709.08</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Plancke Karolien Zonnekeer 1 8500 Kortrijk</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Laroy Sophie, Zonnekeer 1, 8500 Kortrijk</nameAddress>
+        <country>BE</country>
+      </item>
+      <item>
+        <nameAddress>Laroy Marie, Zonnekeer 1, 8500 Kortrijk</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c1146>360.70</c1146>
+    <c1358>3594.80</c1358>
+    <c1353>176.28</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>110140768337</numero>
+        <organisme>NN INSURANCE BELGIUM NV</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c3364>270.00</c3364>
+    <c1394>60.00</c1394>
+  </part1>
+  <part2>
+    <c1400>
+      <valeur>31684.62</valeur>
+    </c1400>
+    <c1405>16739.07</c1405>
+    <c1407>
+      <valeur>532.68</valeur>
+    </c1407>
+  </part2>
+</declaration>

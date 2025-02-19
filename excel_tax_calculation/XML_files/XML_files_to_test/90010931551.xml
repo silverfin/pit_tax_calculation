@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1250>
+      <valeur>32163.42</valeur>
+    </c1250>
+    <c1286>
+      <valeur>3.31</valeur>
+    </c1286>
+    <travFrontAutres>
+      <item>
+        <pays>AU</pays>
+        <ipcode>
+          <code>1250</code>
+          <valeur>32144.13</valeur>
+        </ipcode>
+      </item>
+    </travFrontAutres>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Beerlandt Mathieu</titulaire>
+        <pays>AU</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

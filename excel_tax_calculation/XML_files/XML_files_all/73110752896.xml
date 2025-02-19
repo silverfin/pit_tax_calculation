@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1021>checked</c1021>
+    <c1030>1</c1030>
+    <c1105>110.74</c1105>
+    <c1146>0.00</c1146>
+    <c1358>333.74</c1358>
+    <c3364>2376.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Rinaldi Ceroni Luisa</titulaire>
+        <pays>IT</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1650>36600.00</c1650>
+    <c1656>4697.40</c1656>
+    <c1657>11827.74</c1657>
+  </part2>
+</declaration>

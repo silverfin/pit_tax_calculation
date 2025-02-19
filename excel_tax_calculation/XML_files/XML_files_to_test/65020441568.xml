@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>2</c1030>
+    <c1106>2820.00</c1106>
+    <c2106>2820.00</c2106>
+    <c1266>13933.48</c1266>
+    <c1271>4085.37</c1271>
+    <c2271>5105.11</c2271>
+    <c1286>
+      <valeur>1548.09</valeur>
+    </c1286>
+    <c2286>
+      <valeur>0.00</valeur>
+    </c2286>
+    <c3364>1530.00</c3364>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Philippe Rousseaux</titulaire>
+        <pays>DE</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1405>4558.14</c1405>
+    <c2405>3128.20</c2405>
+    <c1400>
+      <valeur>0.00</valeur>
+    </c1400>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+    <c2400>
+      <valeur>0.00</valeur>
+    </c2400>
+    <c2407>
+      <valeur>0.00</valeur>
+    </c2407>
+  </part2>
+</declaration>

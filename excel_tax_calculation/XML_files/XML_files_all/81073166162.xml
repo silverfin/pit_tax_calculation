@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>13.45</c1106>
+    <c2106>13.45</c2106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>13.45</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>ES</pays>
+        <ipcode>
+          <code>2106</code>
+          <valeur>13.45</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>74628.01</valeur>
+    </c1250>
+    <c2250>
+      <valeur>8723.70</valeur>
+    </c2250>
+    <c2254>430.00</c2254>
+    <c2255>430.00</c2255>
+    <c1286>
+      <valeur>8620.26</valeur>
+    </c1286>
+    <c2286>
+      <valeur>1736.31</valeur>
+    </c2286>
+    <c1287>170.37</c1287>
+    <c2287>61.80</c2287>
+    <c2284>
+      <valeur>211.52</valeur>
+    </c2284>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>David Fernandez Castrillon</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>David Fernandez Castrillon</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Noelia Fernandez Freire</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>
