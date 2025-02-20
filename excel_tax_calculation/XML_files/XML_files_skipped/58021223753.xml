@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>1616.00</c1106>
+    <c2106>695.00</c2106>
+    <c2107>0.01</c2107>
+    <c1109>216.79</c1109>
+    <c2109>72.26</c2109>
+    <c1110>2250.00</c1110>
+    <c2110>750.00</c2110>
+    <c2250>
+      <valeur>37089.37</valeur>
+    </c2250>
+    <c2271>3562.06</c2271>
+    <c2272>281.45</c2272>
+    <c2286>
+      <valeur>9119.03</valeur>
+    </c2286>
+    <c2287>281.85</c2287>
+    <c2290>checked</c2290>
+    <c1211>
+      <valeur>18944.62</valeur>
+    </c1211>
+    <c1218>852.89</c1218>
+    <c1225>
+      <valeur>1123.52</valeur>
+    </c1225>
+    <c1353>1419.02</c1353>
+    <c2353>2065.59</c2353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>182-2238596-88</numero>
+        <organisme>AG Insurance S.A.</organisme>
+      </contrat>
+      <contrat>
+        <numero>182-2238601-93</numero>
+        <organisme>AG Inusrance S.A.</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <c1400>
+      <valeur>4106.95</valeur>
+    </c1400>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

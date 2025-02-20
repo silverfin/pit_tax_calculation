@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>506.00</c1106>
+    <c2106>506.00</c2106>
+    <c1107>59.50</c1107>
+    <c2107>59.50</c2107>
+    <c1109>521.54</c1109>
+    <c2109>521.54</c2109>
+    <c1110>4034.55</c1110>
+    <c2110>4034.55</c2110>
+    <c1437>182.00</c1437>
+    <c2437>181.00</c2437>
+    <c1156>579.40</c1156>
+    <c2156>579.40</c2156>
+    <c1146>1740.96</c1146>
+    <c2146>1740.96</c2146>
+    <c1353>1086.64</c1353>
+    <c1354>315.37</c1354>
+    <contIndivAssVie>
+      <contrat>
+        <numero>7307049</numero>
+        <organisme>nn insurance</organisme>
+      </contrat>
+      <contrat>
+        <numero>02/05456105</numero>
+        <organisme>ag insurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1361>990.00</c1361>
+    <c2361>990.00</c2361>
+  </part1>
+  <part2>
+    <professionA-1>Bedrijfsleider</professionA-1>
+    <professionB-1>Bedrijfsleider</professionB-1>
+    <noEntA>465907232</noEntA>
+    <noEntB>465907232</noEntB>
+    <c1400>
+      <valeur>45314.04</valeur>
+    </c1400>
+    <c2400>
+      <valeur>45000.00</valeur>
+    </c2400>
+    <c1405>8628.80</c1405>
+    <c2405>7224.32</c2405>
+    <c1407>
+      <valeur>10595.64</valeur>
+    </c1407>
+    <c2407>
+      <valeur>10511.52</valeur>
+    </c2407>
+  </part2>
+</declaration>

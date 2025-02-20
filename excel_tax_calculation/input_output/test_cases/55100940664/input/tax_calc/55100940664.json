@@ -1,0 +1,22 @@
+{
+  "dob_oldest": "1990-02-01",
+  "dob_declarant": "1992-07-27",
+  "dob_youngest": "1992-07-27",
+  "dob_partner": "1990-02-01",
+  "average_tax_rate": 32,
+  "average_tax_rate_youngest": 32,
+  "postal_code": 2018,
+  "lump_sum_taxation": false,
+  "joint_tax_return": false,
+  "c1002": "true",
+  "c1021": "true",
+  "code_1199": "NVT",
+  "c1106": "5494.00",
+  "C310_1": "GR",
+  "C311_1": "1106",
+  "C312_1": "5494.00",
+  "L300_1": "Tokamani Niki",
+  "L301_1": "GR",
+  "L302_1": "checked",
+  "c1075": "true"
+}

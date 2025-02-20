@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1030>1</c1030>
+    <c1031>1</c1031>
+    <c1106>0.49</c1106>
+    <c2106>0.49</c2106>
+    <c1107>0.40</c1107>
+    <c2107>0.40</c2107>
+    <c1250>
+      <valeur>47272.81</valeur>
+    </c1250>
+    <c1254>430.00</c1254>
+    <c1255>430.00</c1255>
+    <c1286>
+      <valeur>8403.02</valeur>
+    </c1286>
+    <c1287>290.49</c1287>
+    <c1290>checked</c1290>
+    <c1284>
+      <valeur>659.99</valeur>
+    </c1284>
+    <c1353>2160.00</c1353>
+    <c2354>2046.36</c2354>
+    <contIndivAssVie>
+      <contrat>
+        <numero>505052043</numero>
+        <organisme>Athora</organisme>
+      </contrat>
+      <contrat>
+        <numero>040141350027</numero>
+        <organisme>Monument assurance</organisme>
+      </contrat>
+    </contIndivAssVie>
+  </part1>
+  <part2>
+    <c2400>
+      <valeur>60909.94</valeur>
+    </c2400>
+    <c2405>8597.81</c2405>
+    <c2407>
+      <valeur>14966.53</valeur>
+    </c2407>
+  </part2>
+</declaration>

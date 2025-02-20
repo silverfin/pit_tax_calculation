@@ -1,0 +1,22 @@
+{
+  "dob_oldest": "1990-02-01",
+  "dob_declarant": "1992-07-27",
+  "dob_youngest": "1992-07-27",
+  "dob_partner": "1990-02-01",
+  "average_tax_rate": 32,
+  "average_tax_rate_youngest": 32,
+  "postal_code": 2018,
+  "lump_sum_taxation": false,
+  "joint_tax_return": false,
+  "c1001": "true",
+  "c1030": "2",
+  "c1038": "1",
+  "code_1199": "NVT",
+  "c1552": "2021-09-01",
+  "c1650": "26406.94",
+  "c1656": "3100.61",
+  "L300_1": "Sanada Ryo",
+  "L301_1": "GB",
+  "L302_1": "checked",
+  "c1075": "true"
+}

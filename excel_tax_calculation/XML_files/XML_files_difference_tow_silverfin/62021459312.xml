@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1106>3318.17</c1106>
+    <c1107>4.00</c1107>
+    <c2107>2.00</c2107>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>3299.57</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>FR</pays>
+        <ipcode>
+          <code>1107</code>
+          <valeur>2.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>PT</pays>
+        <ipcode>
+          <code>1107</code>
+          <valeur>2.00</valeur>
+        </ipcode>
+      </item>
+      <item>
+        <pays>PT</pays>
+        <ipcode>
+          <code>2107</code>
+          <valeur>2.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1444>34999.36</c1444>
+    <c1349>38320.68</c1349>
+    <c2349>2436.12</c2349>
+    <c1390>8700.00</c1390>
+    <benefRenteAlim>
+      <item>
+        <nameAddress>Augustin François-Poncet, 36, rue général Mac Arthur, 1180 Bruxelles</nameAddress>
+        <country>BE</country>
+      </item>
+    </benefRenteAlim>
+    <c4360>1400.70</c4360>
+    <c4344>checked</c4344>
+    <c4346>0</c4346>
+    <c3358>1296.05</c3358>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Jacques François-Poncet</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Jacques François-Poncet</titulaire>
+        <pays>FR</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+  <part2>
+    <c1405>3702.53</c1405>
+    <c1400>
+      <valeur>0.00</valeur>
+    </c1400>
+    <c1407>
+      <valeur>0.00</valeur>
+    </c1407>
+  </part2>
+</declaration>

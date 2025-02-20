@@ -1,0 +1,2117 @@
+<!DOCTYPE html><html lang="nl" xmlns:ns2="http://www.minfin.fgov.be/calculipp"><head>
+        
+        
+            
+        
+
+
+
+
+
+
+
+
+
+
+  
+    <title>Bijkomende informatie met betrekking tot de berekening - Tax-Calc</title>
+  
+  
+  
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="format-detection" content="telephone=no">
+
+<link href="/taxcalc2024/static/css/responsive/bootstrap.min.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/responsive/fin_style.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/responsive/font-awesome.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/responsive/myminfin.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/common.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/general.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/cat_general.css" rel="stylesheet" type="text/css">
+<link href="/taxcalc2024/static/css/update.css" rel="stylesheet" type="text/css">
+
+<link href="/taxcalc2024/static/css/wacom.css" rel="stylesheet" type="text/css">
+
+<link rel="stylesheet" href="/taxcalc2024/static/css/print.css" type="text/css" media="print">
+<link rel="stylesheet" href="/taxcalc2024/static/css/font-awesome.min.css" type="text/css" media="print">
+
+<link href="/taxcalc2024/static/css/mac_ns4.css" rel="stylesheet" type="text/css">
+
+
+
+<script src="/taxcalc2024/static/js/responsive/jquery.min.js"></script>
+<script src="/taxcalc2024/static/js/jquery-ui.js"></script>
+<script src="/taxcalc2024/static/js/common.js"></script>
+<script src="/taxcalc2024/static/js/mysoapclient.js"></script>
+<script src="/taxcalc2024/static/js/responsive/bootstrap.min.js"></script>
+<script src="/taxcalc2024/static/js/responsive/fin-js.js"></script>
+<script src="/taxcalc2024/static/js/responsive/html5shiv.min.js"></script>
+<script src="/taxcalc2024/static/js/responsive/respond.min.js"></script>
+
+
+
+        
+
+
+
+
+
+
+
+
+
+<script>
+    function onLoadExecute() {
+        var newLocation = isReturnConfirm('null', '', '/taxcalc2024/app/anonymousnull');
+        if (newLocation.length > 0) window.location = newLocation;
+        else goToAnchor("#");
+    }
+</script>
+
+        
+            
+
+
+
+
+
+<script src="/taxcalc2024/static/js/common.js"></script>
+
+
+
+<script>
+    function alertConfirmContinue(askConfirmation) {
+        var newLocation = "/taxcalc2024/static/nl/survey/survey_letter.pdf";
+        if (askConfirmation == "true") {
+            if (newLocation.length > 0) newWindow(newLocation, "", 1080, 800, "yes", "yes");
+        }
+    }
+</script>
+
+
+    <script>
+        alertConfirmContinue('false');
+    </script>
+
+
+
+
+
+        
+    </head>
+    <body onload="onLoadExecute()" style="background-color: white;">
+    <header>
+        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div id="be-header" class="with-line">
+    <div class="row be-header-inner">
+        <div class="container">
+            <div class="region region-be-header">
+            <div><a id="skiplink" class="offscreen btn-md btn-fin01" href="#bodyContent">Naar de pagina</a></div>
+                <div class="block block-locale col-xs-6 col-sm-4 col-md-6 clearfix">
+                    <div class="language-switcher-locale-url">
+                         
+                    </div>
+                </div>
+                <div id="block-kanselarij-be-header" class="block block-kanselarij col-xs-6 col-sm-8 col-md-6 text-right clearfix nopadding">
+                    <div>
+                        <span class="hidden-xs">Andere informatie en diensten van de overheid:</span>
+                        <a class="underlinedLink" title="belgium.be" href="http://www.belgium.be/nl" target="_blank">http://www.belgium.be/nl</a>
+                        <img alt="Logo of the Belgian government" class="img-responsive" src="/taxcalc2024/static/images/responsive/be-logo.gif">
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="row nomargin bg_dots_deg">
+    <div class="container">
+        <div class="left header">
+            <div class="fin-logo">
+                <a href="http://finances.belgium.be/nl" target="_blank"><img height="71" alt="Finbel's logo" src="/taxcalc2024/static/images/responsive/_tow_logo.png"></a>
+            </div>
+        </div>
+        <div class="right header">
+            <div class="login">
+                
+            </div>
+            <div class="njr">
+                <img alt="Belgian-s colors" class="njr" src="/taxcalc2024/static/images/responsive/_fin_njr.gif">
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+<table style="width:100%;text-align: center;">
+    <tbody><tr>
+        <td>
+            <span style="color:red">
+                
+                    Dit is een simulator, die toelaat anoniem uw belastingsaanslag te berekenen. De gegevens worden niet bijgehouden en de aangifte kan niet ingediend worden.
+                
+            </span>
+        </td>
+    </tr>
+</tbody></table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <nav>
+        <div>
+            <div class="navbar navbar-default nopadding">
+                <ul class="nav navbar-nav" style="width: 65%;">
+                    <li style="text-align: center">
+                        
+                            
+                            
+                        
+
+
+
+
+
+
+
+
+
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="
+                                
+                                    javascript:submitForm(document.forms.cadreform,'/taxcalc2024/app/anonymous/private/common/logoff.do')
+                                
+                                
+                            " style="text-transform: none; color: #007DFF;" title="Terug naar het Federaal Portaal" onclick=""><object style="vertical-align:middle" type="image/svg+xml" data="/taxcalc2024/static/images/responsive/IconsTOW-01_back.svg" height="30" width="30" tabindex="-1">
+        <img src="/taxcalc2024/static/images/responsive/IconsTOW-01_back.png" height="30" width="30" alt="">
+    </object>
+    Beëindigen</a>
+
+
+                    </li>
+                    <li style="text-align: center">
+                        
+                            
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="
+                                
+                                    
+                                    
+                                        javascript:submitForm(document.forms.cadreform,'/taxcalc2024/app/anonymous/private/taxform/calculateTaxForm.do')
+                                    
+                                
+                            " style="text-transform: none; color: #007DFF;" title="Berekenen van de belastingen" onclick=""><object style="vertical-align:middle" type="image/svg+xml" data="/taxcalc2024/static/images/responsive/IconsTOW-03_calculate.svg" height="30" width="30" tabindex="-1">
+        <img src="/taxcalc2024/static/images/responsive/IconsTOW-03_calculate.png" height="30" width="30" alt="">
+    </object>
+    Berekenen van de belastingen</a>
+
+                    </li>
+                    
+                </ul>
+                <ul class="nav navbar-nav" style="float: right;width: 35%;">
+                    <li style="text-align: center; float: right;">
+                        
+                            
+                            
+                        
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<a href="#" style="text-transform: none; color: #007DFF;" title="Help Tax-Calc" onclick="
+                                window.open('https://financien.belgium.be/nl/E-services/Tax-on-web');
+                            "><object style="vertical-align:middle" type="image/svg+xml" data="/taxcalc2024/static/images/responsive/IconsTOW-06_help.svg" height="30" width="30" tabindex="-1">
+        <img src="/taxcalc2024/static/images/responsive/IconsTOW-06_help.png" height="30" width="30" alt="">
+    </object>
+    Help</a>
+
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="container">
+    <nav>
+        <div>
+            <div id="navbar2" class="navbar navbar-default-primary no-padding">
+                <ul class="nav navbar-nav" style="width:100%">
+                    <li style="width:12%;text-align:center;"><a href="javascript:submitForm(document.forms.cadreform, '/taxcalc2024/app/anonymous/private/taxform/displayPart1.do')" title="Deel 1" id="PART1">Deel 1</a></li>
+
+                    
+                        <li style="width:12%;text-align:center;"><a href="javascript:submitForm(document.forms.cadreform, '/taxcalc2024/app/anonymous/private/taxform/displayPart2.do')" title="Deel 2" id="PART2">Deel 2</a></li>
+
+                    
+                    
+                    
+                    <li style="width:17%;text-align:center;"><a href="javascript:submitForm(document.forms.cadreform, '/taxcalc2024/app/anonymous/private/taxform/displayQuickEncoding.do')" id="QUICK">Snelle invoering</a></li>
+
+                    
+                    <li style="width:15%;text-align:center;"><a href="javascript:submitForm(document.forms.cadreform, '/taxcalc2024/app/anonymous/private/taxform/showValidationResult.do')" id="VALIDATE_ALL">Lijst met fouten</a></li>
+
+                </ul>
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+
+
+
+
+
+<div class="container">
+    <nav>
+        <div>
+            <div id="navbar3" class="navbar navbar-default nopadding">
+                
+            </div>
+        </div>
+    </nav>
+</div>
+
+
+
+
+
+    </header>
+    <div id="bodyContent">
+        
+
+
+
+
+
+<div class="container">
+  <form name="cadreform" method="post" action="/taxcalc2024/app/anonymous/private/taxform/displayCadreI.do"><div><input type="hidden" name="org.apache.struts.taglib.html.TOKEN" value="a50f27bf700d5c5c339d781ba3f6141f"></div>
+    <input type="hidden" name="redisplay" value="calculDetails">
+    
+
+
+
+
+
+
+
+
+
+<table class="tableWidthAlign">
+    <tbody><tr>
+        <td>
+        <span class="title">
+          BIJKOMENDE INFORMATIE OVER DE BEREKENING&nbsp;(20/02/2025)
+        </span>
+        </td>
+    </tr>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td>
+            <p style="font-size: large"> Opgelet! Deze simulatie kan verschillen van het uiteindelijke resultaat in uw aanslagbiljet want:</p><ul><li style="list-style:disc">er is geen rekening gehouden met bepaalde elementen zoals beroepsverliezen feitelijke vereniging of de correcte kwalificatie inzake inkomsten van buitenlandse oorsprong;</li><li style="list-style:disc">eventuele negatieve bedragen in de aangifte worden tot nul herleid voor de simulatie.</li></ul><p></p>
+            
+            
+            
+        </td>
+    </tr>
+    <tr>
+        <td>Bij de simulatie van de berekening zijn de volgende parameters gebruikt:</td>
+    </tr>
+    <tr>
+        <td>
+            <table>
+                <tbody><tr>
+                    <td>Aanslagvoet van de gemeentebelasting 2024 (als deze aanslagvoet niet beschikbaar is zal de aanslagvoet voor 2023 worden gebruikt):</td>
+                    <td style="vertical-align:top;">
+                        7.0
+                    </td>
+                </tr>
+                <tr>
+                    <td>Is de belastingplichtige  onderworpen aan de inhoudingen voor de bijzondere bijdrage voor de sociale zekerheid?</td>
+                    <td style="vertical-align:top;">
+                        
+                            
+                                
+                            
+                            
+                        
+                        Ja
+                    </td>
+                </tr>
+                <tr>
+                    <td>Gemiddelde aanslagvoet van het vorige jaar:</td>
+                    <td style="vertical-align:top;">
+                        0.0&nbsp;
+                        
+                    </td>
+                </tr>
+            </tbody></table>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+                <div>
+                    
+
+<br>
+<div>
+<div class="AdminCode">
+<p>Gegevens aangifte</p>
+</div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1001&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1</p>
+</td><td class="Ligne3_P">
+<p>1075&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1</p>
+</td><td class="Ligne3_P">
+<p>1106&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1.026,00</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1242&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>2.114,01</p>
+</td><td class="Ligne3_P">
+<p>1250&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>70.614,54</p>
+</td><td class="Ligne3_P">
+<p>1254&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>170,38</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1255&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>170,38</p>
+</td><td class="Ligne3_P">
+<p>1266&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1.472,74</p>
+</td><td class="Ligne3_P">
+<p>1269&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1.639,62</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1285&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>2.647,20</p>
+</td><td class="Ligne3_P">
+<p>1286&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>27.301,92</p>
+</td><td class="Ligne3_P">
+<p>1287&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>647,87</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1353&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>2.335,75</p>
+</td><td class="Ligne3_P">
+<p>1444&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1.372,21</p>
+</td><td class="Ligne3_P">
+<p>&nbsp;</p>
+</td><td class="Ligne3_I">
+<p></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<div class="AdminCode">
+<p> - Vrijgesteld zonder opcentiemen</p>
+</div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1106&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1.026,00</p>
+</td><td class="Ligne3_P">
+<p>&nbsp;</p>
+</td><td class="Ligne3_I">
+<p></p>
+</td><td class="Ligne3_P">
+<p>&nbsp;</p>
+</td><td class="Ligne3_I">
+<p></p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<div class="AdminCode">
+<p>Administratieve gegevens</p>
+</div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td><td class="Ligne3_TP">
+<p>Code&nbsp;</p>
+</td><td class="Ligne3_TI">
+<p>Gegevens</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1041&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>0</p>
+</td><td class="Ligne3_P">
+<p>1042&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>0</p>
+</td><td class="Ligne3_P">
+<p>1061&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>7,0</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<div>
+<table class="Ligne3">
+<tbody><tr>
+<td class="Ligne3_P">
+<p>1084&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1</p>
+</td><td class="Ligne3_P">
+<p>1086&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>27/07/1992</p>
+</td><td class="Ligne3_P">
+<p>1090&nbsp;</p>
+</td><td class="Ligne3_I">
+<p>1</p>
+</td>
+</tr>
+</tbody></table>
+</div>
+<br>
+<div>
+<div class="HC">
+<p>Aanslagjaar  2024    Inkomsten van het jaar 2023</p>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<hr>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="HH">
+<p>RESULTAAT VAN DE BEREKENING</p>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="SS">
+<table width="95%">
+<tbody><tr>
+<td class="LabelText">Bedrag in uw voordeel</td><td class="MutVal">647,49</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gemiddelde aanslagvoet (%)</td><td class="Val1">35,9</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="HH">
+<p>DETAIL VAN DE BEREKENING</p>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">VASTSTELLING VAN DE BELASTBARE INKOMSTEN</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Inkomsten van Onroerende Goederen </td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">K.I. (verhoogd)</td><td class="Val1">3.004,40</td><td class="Val1Sign"></td><td class="Ipcode1">1106</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal</td><td class="Val1">3.004,40</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">   Vrijgesteld</td><td class="Val1">3.004,40</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<hr>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Inkomsten van kapitalen en roerende goederen</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC3">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Kapitalen belastbaar tegen</td><td class="Inf3">30,00</td><td class="Op3">%</td><td class="Val1">1.372,21</td><td class="Val1Sign"></td><td class="Ipcode1">1444</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC3">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Afzonderlijk belast. Tegen</td><td class="Inf3">30,00</td><td class="Op3">%</td><td class="Val1">1.372,21</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<hr>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Beroepsinkomsten</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Wedden en lonen</td><td class="Val1">70.614,54</td><td class="Val1Sign"></td><td class="Ipcode1">1250</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Terugbetaling woon-werkverkeer:</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal bedrag</td><td class="Val1">170,38</td><td class="Val1Sign"></td><td class="Ipcode1">1254</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vrijstelling</td><td class="Val1">170,38</td><td class="Val1Sign">-</td><td class="Ipcode1">1255</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Niet-recurrente resultaatgebonden voordelen</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gewone</td><td class="Val1">2.114,01</td><td class="Val1Sign"></td><td class="Ipcode1">1242</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vrijstelling - niet-recurrente resultaatgebonden voordelen</td><td class="Val1">2.114,01</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Forfaitaire beroepskosten</td><td class="Val1">5.520,00</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Verschil</td><td class="Val1">65.094,54</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gezamenlijk belastbaar</td><td class="Val1">65.094,54</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Ziekte of invaliditeit</td><td class="Val1">1.472,74</td><td class="Val1Sign"></td><td class="Ipcode1">1266</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal</td><td class="Val1">1.472,74</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gezamenlijk belastbaar</td><td class="Val1">1.472,74</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Aanvullende ziekteuitkering</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1">1269</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Netto</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gezamenlijk belastbaar</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Inhoudingen aanvullend pensioen:</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gewone premies aanvullend pensioen</td><td class="Val1">2.647,20</td><td class="Val1Sign"></td><td class="Ipcode1">1285</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Bedrijfsvoorheffing</td><td class="Val1">27.301,92</td><td class="Val1Sign"></td><td class="Ipcode1">1286</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Bijzondere bijdrage sociale zekerheid</td><td class="Val1">647,87</td><td class="Val1Sign"></td><td class="Ipcode1">1287</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<hr>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">GEZAMENLIJK BELASTBARE BEROEPSINKOMSTEN</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Wedden, lonen, enz.</td><td class="Val1">65.094,54</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Ziekte of invaliditeit</td><td class="Val1">1.472,74</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vervangingsinkomsten, pensioen en</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">werkloosheidsuit. met bedrijfstoeslag</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal</td><td class="Val1">68.206,90</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<hr>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">GEZAMENLIJK BELASTBAAR INKOMEN</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Inkomsten onroerende goederen</td><td class="Val1">3.004,40</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">   vol tarief</td><td class="Val1">0,00</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">   vrijgesteld</td><td class="Val1">3.004,40</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Beroepsinkomsten</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">- Wedden, lonen, enz.</td><td class="Val1">65.094,54</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">- Ziekte of invaliditeit</td><td class="Val1">1.472,74</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vervangingsinkomsten, pensioen en</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">werkloosheidsuit. met bedrijfstoeslag</td><td class="Val1">1.639,62</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal van de netto inkomsten</td><td class="Val1">71.211,30</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gezamenlijk belastbaar inkomen</td><td class="Val1">71.211,30</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="HH">
+<p>BEREKENING VAN DE AANSLAG</p>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Verrekende belastingvrije sommen</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - basisbedrag</td><td class="Val1">10.160,00</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Basisbelasting</td><td class="Val1">29.662,15</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Belastingvermindering</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - op de belastingvrije sommen</td><td class="Val1">2.540,00</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Om te slane belasting</td><td class="Val1">27.122,15</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vermindering ziekte of invaliditeit</td><td class="Val1">19,13</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vermindering vervangingsinkomsten, pensioen en</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">werkloosheidsuit. met bedrijfstoeslag</td><td class="Val1">15,87</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Verminderde basisbelasting</td><td class="Val1">27.087,15</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Vermindering: vrijgestelde buitenl. ink.</td><td class="Val1">1.144,28</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Hoofdsom op gezamenlijk belast. ink.</td><td class="Val1">25.942,87</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Afzonderlijk belastbare inkomsten:</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - roerende inkomsten:</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC1">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"></td><td class="Inf1">1.372,21</td><td class="Op1">  x</td><td class="Inf2">30,00</td><td class="Op2">  %=</td><td class="Empty2"></td><td class="Val1">411,66</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totale hoofdsom op</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">gezamenlijk en afzonderlijk belast. ink.</td><td class="Val1">26.354,53</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Belasting Staat</td><td class="Val1">25.942,87</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">    - Gezamenlijk belastbaar ink.</td><td class="Val1">25.942,87</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Hoofdsom op federale ink. zonder gemeentebelasting</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">    - Afzonderlijk belastbaar ink.</td><td class="Val1">411,66</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">FEDERALE BELASTING</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gereduceerde Belasting Staat</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC1">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"></td><td class="Inf1">25.942,87</td><td class="Op1">x</td><td class="Inf2">75,043</td><td class="Op2">%=</td><td class="Empty2"></td><td class="Val1">19.468,31</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">    - Gezamenlijk belastbaar ink.</td><td class="Val1">19.468,31</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Federale verminderingen</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - Aanvullend pensioen</td><td class="Val1">794,16</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - Lange termijnsparen (levensverz.)</td><td class="Val1">700,73</td><td class="Val1Sign">-</td><td class="Ipcode1">1353</td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Saldo federale belasting</td><td class="Val1">17.973,42</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - Gereduceerde belasting Staat</td><td class="Val1">17.973,42</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">GEWESTELIJKE BELASTING</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gewestelijke Belasting</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC1">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"></td><td class="Inf1">19.468,31</td><td class="Op1">x</td><td class="Inf2">33,257</td><td class="Op2">%=</td><td class="Empty2"></td><td class="Val1">6.474,58</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">    - Gezamenlijk belastbaar ink.</td><td class="Val1">6.474,58</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">TOTALE BELASTING</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totale Belasting</td><td class="Val1">24.859,66</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - op federale ink. zonder gemeentebelasting</td><td class="Val1">411,66</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText"> - op het saldo</td><td class="Val1">24.448,00</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">SALDO FEDERALE BELASTING</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">- Terugbetaalbare bestanddelen</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Bedrijfsvoorheffing</td><td class="Val1">27.301,92</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Saldo Federale Belasting</td><td class="Val1">8.916,84</td><td class="Val1Sign">-</td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">SALDO GEWESTELIJKE BELASTING</td><td class="Val1"></td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DC">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Saldo Gewestelijke Belasting</td><td class="Val1">6.474,58</td><td class="Val1Sign"></td><td class="Ipcode1"></td><td class="Val2"></td><td class="Val2Sign"></td><td class="Ipcode2"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="UD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal Saldo Federale Belasting</td><td class="MutVal">8.916,84</td><td class="MutValSign">-</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Totaal Saldo Gewestelijke Belasting</td><td class="MutVal">6.474,58</td><td class="MutValSign"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DL">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Gemeentebelasting                                                              </td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">- op belastbare ink.</td><td class="Inf2">24.448,00</td><td class="Op2">x</td><td class="Inf3">7,0</td><td class="Op3">%</td><td class="Empty2"></td><td class="MutVal">1.711,36</td><td class="MutValSign"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UDM">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">S A L D O</td><td class="MutVal">730,90</td><td class="MutValSign">-</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="TR">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Bijzondere Bijdrage voor de Sociale Zekerheid</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD2">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Verschuldigd op</td><td class="Inf2">71.211,30</td><td class="Op2"></td><td class="Inf3"></td><td class="Op3"></td><td class="Empty2"></td><td class="MutVal">731,28</td><td class="MutValSign"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="DD">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Reeds ingehouden</td><td class="MutVal">647,87</td><td class="MutValSign">-</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UDM">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<br>
+</div>
+<div>
+<div class="DD">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td class="LabelText">Bedrag in uw voordeel</td><td class="MutVal">647,49</td><td class="MutValSign"></td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="UDM">
+<table width="95%">
+<tbody><tr>
+<td class="Empty"></td><td>
+<hr>
+</td>
+</tr>
+</tbody></table>
+</div>
+</div>
+<div>
+<div class="FC">
+<p>Strategie : Vrij</p>
+</div>
+</div>
+<div>
+<div class="FC">
+<p>Strategienr.  08.AfzBel_Titularis/GezBel_Partner</p>
+</div>
+</div>
+<div>
+<div class="FC">
+<p>Versie van de berekening : IPP_EX_2024 : V_1.0.59</p>
+</div>
+</div>
+
+
+
+                </div>
+            
+            
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <p style="font-size: large"> Opgelet! Deze simulatie kan verschillen van het uiteindelijke resultaat in uw aanslagbiljet want:</p><ul><li style="list-style:disc">er is geen rekening gehouden met bepaalde elementen zoals beroepsverliezen feitelijke vereniging of de correcte kwalificatie inzake inkomsten van buitenlandse oorsprong;</li><li style="list-style:disc">eventuele negatieve bedragen in de aangifte worden tot nul herleid voor de simulatie.</li></ul><p></p>
+            
+            
+        </td>
+    </tr>
+    <tr>
+        <td>
+            
+
+
+
+<button type="button" class="btn btn-fin01" onclick="document.forms.cadreform.submit();" id="calculation_details_close-button1">
+    Terug naar de aangifte
+</button>
+
+        </td>
+    </tr>
+</tbody></table>
+
+
+  </form>
+</div>
+
+
+
+        
+        
+            
+            
+        
+    </div>
+    
+
+
+
+
+
+
+
+
+
+
+
+<script>
+    var cookies = "/taxcalc2024/static/nl/help/data_politic.pdf";
+</script>
+
+
+
+    
+
+
+<footer class="footer">
+    <div class="row bgfooter">
+        <div class="container">
+            <div style="width:1150px">
+                
+                <div class="col-xs-6 col-md-3 nopadding" style="width:27%; text-align:left;"></div>
+                <div class="col-xs-6 col-md-3 nopadding" style="width:27%; text-align:center;"></div>
+                <div class="col-xs-6 col-md-2 nopadding" style="width:19%; text-align:center;"></div>
+                
+                <div class="col-xs-6 col-md-4 nopadding" style="width:27%; text-align:right;">
+                    
+                    <i class="fa fa-print" style="color: #0058b6"></i>
+                    <a href="javascript:window.print();">
+                        Deze pagina afdrukken
+                    </a>
+                    
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="mgt20">
+                <div class="col-xs-6 col-md-5 nopadding">
+                </div>
+                <div class="col-xs-6 col-md-7 nopadding right">
+                    <span class="fin09"></span>
+                </div>
+            </div>
+            <div class="clearfix"></div>
+            <div class="footer-bot">
+                <div class="col-xs-12 col-md-6 left nopadding">
+                    <ul>
+                        <li>
+                            <img alt="Belgian-s colors" src="/taxcalc2024/static/images/responsive/_fin_njr.gif">
+                        </li>
+                        
+                        <li>
+                            <a onclick="javascript:alertCookies(cookies)" style="cursor: pointer;">
+                                COOKIEBELEID
+                            </a>
+                        </li>
+                    </ul>
+                </div>
+                <div class="col-xs-12 col-md-6 right nopadding">
+                    © Copyright Federale Overheidsdienst Financiën
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+
+    
+
+
+
+
+
+
+
+    
+
+<div id="toTop" class="btn btn-fin01"><i class="fa fa-arrow-up"></i></div></body></html>

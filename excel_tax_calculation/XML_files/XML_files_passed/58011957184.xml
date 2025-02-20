@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1106>1026.00</c1106>
+    <immoEtrgExonProgres>
+      <item>
+        <pays>GB</pays>
+        <ipcode>
+          <code>1106</code>
+          <valeur>1026.00</valeur>
+        </ipcode>
+      </item>
+    </immoEtrgExonProgres>
+    <c1250>
+      <valeur>70614.54</valeur>
+    </c1250>
+    <c1254>170.38</c1254>
+    <c1255>170.38</c1255>
+    <c1242>2114.01</c1242>
+    <c1266>1472.74</c1266>
+    <c1269>1639.62</c1269>
+    <c1285>2647.20</c1285>
+    <c1286>
+      <valeur>27301.92</valeur>
+    </c1286>
+    <c1287>647.87</c1287>
+    <c1444>1372.21</c1444>
+    <c1353>2335.75</c1353>
+    <contIndivAssVie>
+      <contrat>
+        <numero>006-2015392-91</numero>
+        <organisme>AG Insurance S.A.</organisme>
+      </contrat>
+    </contIndivAssVie>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Robert Gilbert</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Robert Gilbert</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+      <compte>
+        <titulaire>Robert Gilbert</titulaire>
+        <pays>GB</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>
