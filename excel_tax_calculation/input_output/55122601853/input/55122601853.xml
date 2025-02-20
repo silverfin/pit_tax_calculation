@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1002>checked</c1002>
+    <c1228>
+      <valeur>540.53</valeur>
+    </c1228>
+    <c2228>
+      <valeur>20250.99</valeur>
+    </c2228>
+    <c1218>240.36</c1218>
+    <c2218>2395.47</c2218>
+    <c1225>
+      <valeur>0.00</valeur>
+    </c1225>
+    <c2225>
+      <valeur>0.00</valeur>
+    </c2225>
+    <c3100>2724.00</c3100>
+    <c4100>2724.00</c4100>
+    <c3146>3.64</c3146>
+    <c3152>7.61</c3152>
+    <c4358>621.30</c4358>
+    <c1075>checked</c1075>
+    <tituCptEtrg>
+      <compte>
+        <titulaire>Morel Luc</titulaire>
+        <pays>ES</pays>
+        <nationalBank>checked</nationalBank>
+      </compte>
+    </tituCptEtrg>
+  </part1>
+</declaration>

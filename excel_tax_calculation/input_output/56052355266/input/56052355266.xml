@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<declaration xmlns="http://xmlexporter.service.taxonline.egov.be" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <part1>
+    <c1001>checked</c1001>
+    <c1228>
+      <valeur>64516.39</valeur>
+    </c1228>
+    <c1225>
+      <valeur>12268.70</valeur>
+    </c1225>
+    <pensionsEtrg>
+      <item>
+        <pays>NL</pays>
+        <ipcode>
+          <code>1228</code>
+          <valeur>24131.00</valeur>
+        </ipcode>
+      </item>
+    </pensionsEtrg>
+    <c1394>268.00</c1394>
+  </part1>
+</declaration>
