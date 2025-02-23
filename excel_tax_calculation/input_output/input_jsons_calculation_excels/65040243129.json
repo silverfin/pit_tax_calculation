@@ -1,0 +1,23 @@
+{
+  "dob_oldest": "1990-02-01",
+  "dob_declarant": "1992-07-27",
+  "dob_youngest": "1992-07-27",
+  "dob_partner": "1990-02-01",
+  "average_tax_rate": 32.0,
+  "average_tax_rate_youngest": 32.0,
+  "postal_code": 2018.0,
+  "lump_sum_taxation": false,
+  "joint_tax_return": false,
+  "code_1001": 1.0,
+  "code_1199": "NVT",
+  "c1400": 95721.22,
+  "c1405": 13277.08,
+  "c1390": 6748.0,
+  "c3364": 1944.0,
+  "c3100": 2254.5,
+  "c3370": 2280.0,
+  "code_3380": 1.0,
+  "c3151": 37.25,
+  "c3152": 945.42,
+  "c1407": 32223.49
+}

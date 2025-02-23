@@ -1,0 +1,21 @@
+{
+  "dob_oldest": "1990-02-01",
+  "dob_declarant": "1992-07-27",
+  "dob_youngest": "1992-07-27",
+  "dob_partner": "1990-02-01",
+  "average_tax_rate": 32,
+  "average_tax_rate_youngest": 32,
+  "postal_code": 2018,
+  "lump_sum_taxation": false,
+  "joint_tax_return": false,
+  "c1001": "true",
+  "code_1199": "NVT",
+  "c1400": 46679.26,
+  "c1405": "8001.16",
+  "c1361": "990.00",
+  "c1407": 10829.01,
+  "L300_1": "Carole de Vergnies",
+  "L301_1": "DE",
+  "L302_1": "checked",
+  "c1075": "true"
+}

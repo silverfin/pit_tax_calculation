@@ -1,0 +1,21 @@
+{
+  "dob_oldest": "1990-02-01",
+  "dob_declarant": "1992-07-27",
+  "dob_youngest": "1992-07-27",
+  "dob_partner": "1990-02-01",
+  "average_tax_rate": 32,
+  "average_tax_rate_youngest": 32,
+  "postal_code": 2018,
+  "lump_sum_taxation": false,
+  "joint_tax_return": false,
+  "c1001": "true",
+  "code_1199": "NVT",
+  "c1400": 41479.57,
+  "c1405": "10486.91",
+  "c1353": "1579.30",
+  "c1361": "907.39",
+  "c3364": "180.00",
+  "c1407": 5192.16,
+  "H350_1": "040141566005",
+  "H351_1": "Monument Assurance Belgium"
+}
