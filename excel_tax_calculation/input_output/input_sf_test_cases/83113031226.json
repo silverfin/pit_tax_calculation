@@ -1,0 +1,38 @@
+{
+  "inputs": {
+    "dob_oldest": "1990-02-01",
+    "dob_declarant": "1992-07-27",
+    "dob_youngest": "1992-07-27",
+    "dob_partner": "1990-02-01",
+    "average_tax_rate": 32.0,
+    "average_tax_rate_youngest": 32.0,
+    "postal_code": 2018.0,
+    "lump_sum_taxation": false,
+    "joint_tax_return": false,
+    "code_1001": 1.0,
+    "code_1101": 1.0,
+    "c1034": 2.0,
+    "code_1199": "NVT",
+    "c1105": 153.25,
+    "c1260": 167.74,
+    "c1271": 349.95,
+    "c1285": 254.88,
+    "c1250": 47863.85,
+    "c1600": 20490.73,
+    "c1632": 4796.56,
+    "c1606": 10178.0,
+    "c1384": 184.5,
+    "c1361": 300.0,
+    "c3334": 2280.0,
+    "code_3336": 1.0,
+    "c3330": 2.0,
+    "c1286": 13891.28,
+    "c1287": 459.03
+  },
+  "outputs": {
+    "tax_calculation.saldo_youngest + tax_calculation.saldo_oldest": 333.24,
+    "tax_calculation_glob_p1.saldo_youngest + tax_calculation_glob_p1.saldo_oldest": 333.24,
+    "tax_calculation_glob_p2.saldo_youngest + tax_calculation_glob_p2.saldo_oldest": 333.24,
+    "tax_calculation_glob_p1_p2.saldo_youngest + tax_calculation_glob_p1_p2.saldo_oldest": 333.24
+  }
+}
